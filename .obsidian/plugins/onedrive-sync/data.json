@@ -1,0 +1,23 @@
+{
+  "accountType": "tenant",
+  "tenantId": "b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b",
+  "useCustomClientId": false,
+  "accessMode": "full-access",
+  "syncInterval": 5,
+  "syncOnFileChange": true,
+  "conflictResolution": "last-write-wins",
+  "startupSyncDelay": 10,
+  "syncAppSettings": false,
+  "syncPluginManifests": false,
+  "syncCssSnippets": false,
+  "syncBookmarks": false,
+  "syncState": {
+    "lastSyncTime": 0,
+    "fileStates": [],
+    "folderStates": []
+  },
+  "appFolderSubpathConfirmed": false,
+  "logLevel": "off",
+  "notificationLevel": "all",
+  "largeDeleteThreshold": 25
+}
