@@ -227,6 +227,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "c58a9ac0207410d0",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
           }
         ],
         "currentTab": 6
@@ -237,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "codeblock-language-detector:CodeBlock Language Detector": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -254,9 +265,13 @@
   },
   "active": "1b75ec1e662d466e",
   "lastOpenFiles": [
-    "Untitled.base",
     "Learning Diary/30-08-2026.md",
+    "Templates/Diary.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.1.md",
+    "Templates/Summary Notes.md",
+    "Templates/Lecture Notes.md",
+    "Attachments/Screenshot 2026-08-30 at 11.37.42 PM.png",
+    "Untitled.base",
     "Kanban.md",
     "Work Tracker.md",
     "Day Planner.md",
@@ -267,12 +282,9 @@
     "Attachments/Pasted image 20260830213906.png",
     "Attachments/Pasted image 20260830213708.png",
     "Attachments/Pasted image 20260830213642.png",
-    "Templates/Summary Notes.md",
     "Welcome.md",
-    "Templates/Lecture Notes.md",
     "Imp 1.1.md",
     "Learning Diary/Untitled.md",
-    "Templates/Diary.md",
     "Learning Diary/2026-08-30.md",
     "Attachments",
     "Archived/COMS10016/Imperative/Week 1.md",
@@ -285,7 +297,6 @@
     "Lecture Notes/Archived/COMS10016",
     "Lecture Notes/Archived",
     "create a link.md",
-    "Untitled.canvas",
-    "MyNotes"
+    "Untitled.canvas"
   ]
 }

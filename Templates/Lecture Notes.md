@@ -7,7 +7,7 @@ Lecture Name:
 ## Introduction
 
 
-
+## Diagrams
 
 ---
 #Tags
