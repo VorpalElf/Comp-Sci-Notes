@@ -25,6 +25,24 @@ $ ./minimal
 - -Wall: Turn on all standard warnings
 - -o: Customise output filename
 
+## Library Modules
+```C
+#include <stdio.h>
+```
+- stdio.h is a <mark style="background: #FF5582A6;">header</mark> file
+- stdio: standard input/output
+
+## Output
+```C
+#include <stdio.h>
+
+int main(void) {
+	// Print
+	printf("Hello World\n");
+	return 0;
+}
+```
+
 ## Diagrams
 ![[Pasted image 20260830213508.png|400]]
 Diagram of types of Programming Languages
