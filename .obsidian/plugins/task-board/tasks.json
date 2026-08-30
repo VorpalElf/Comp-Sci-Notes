@@ -1,0 +1,74 @@
+{
+    "VaultName": "UoB",
+    "Modified_at": "2026-08-30T22:46:15",
+    "Pending": {
+        "Learning Diary/30-08-2026.md": [
+            {
+                "id": "1481914262",
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] 📅 2026-08-30 Finish Reading notes 🔼 🛫 2026-08-30",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "2026-08-30",
+                "scheduledDate": "",
+                "due": "2026-08-30",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 3,
+                "dependsOn": [],
+                "filePath": "Learning Diary/30-08-2026.md",
+                "taskLocation": {
+                    "startLine": 10,
+                    "startCharIndex": 0,
+                    "endLine": 10,
+                    "endCharIndex": 57
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "3643908413",
+                "legacyId": "",
+                "status": "<",
+                "title": "- [<] Finish Summer Camp Video 📅 2026-08-31 🔺",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "2026-08-31",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 1,
+                "dependsOn": [],
+                "filePath": "Learning Diary/30-08-2026.md",
+                "taskLocation": {
+                    "startLine": 11,
+                    "startCharIndex": 0,
+                    "endLine": 11,
+                    "endCharIndex": 47
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.1.md": [],
+        "Day Planner.md": [],
+        "Welcome.md": [],
+        "Templates/Summary Notes.md": [],
+        "Templates/Diary.md": [],
+        "Templates/Lecture Notes.md": []
+    },
+    "Completed": {
+        "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.1.md": [],
+        "Day Planner.md": [],
+        "Welcome.md": [],
+        "Templates/Summary Notes.md": [],
+        "Templates/Diary.md": [],
+        "Templates/Lecture Notes.md": []
+    }
+}

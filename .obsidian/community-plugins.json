@@ -1,3 +1,12 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin",
+  "highlightr-plugin",
+  "obsidian-image-toolkit",
+  "obsidian-contextual-typography",
+  "obsidian-image-layouts",
+  "obsidian-day-planner",
+  "omnisearch",
+  "periodic-notes",
+  "task-board"
 ]
