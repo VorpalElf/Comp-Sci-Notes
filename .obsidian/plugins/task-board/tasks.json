@@ -1,10 +1,10 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-08-30T23:52:58",
+    "Modified_at": "2026-08-31T12:13:04",
     "Pending": {
         "Learning Diary/30-08-2026.md": [
             {
-                "id": "2502155360",
+                "id": "4144881230",
                 "legacyId": "",
                 "status": " ",
                 "title": "- [ ] Make Imperative 1.2 📅 2026-08-31",
@@ -30,17 +30,17 @@
                 "reminder": ""
             }
         ],
-        "Day Planner.md": [],
         "Welcome.md": [],
         "Templates/Diary.md": [],
         "Templates/Summary Notes.md": [],
-        "Templates/Lecture Notes.md": []
+        "Templates/Lecture Notes.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.2.md": []
     },
     "Completed": {
-        "Day Planner.md": [],
         "Welcome.md": [],
         "Templates/Diary.md": [],
         "Templates/Summary Notes.md": [],
-        "Templates/Lecture Notes.md": []
+        "Templates/Lecture Notes.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.2.md": []
     }
 }
