@@ -16,9 +16,23 @@ int main(void){
 
 int grade(int mark) { } // Full definition
 ```
+- Allow use of functions before definition
+- Prevents circular dependencies
 
-
-## Diagrams
+## Switch Statement
+```C
+int nextHailstone(int x) {
+	int next;
+	switch (x % 2) {
+		case 1:
+			next = 3 * x + 1; break;
+			default: next = x/2;
+	}
+	return next;
+}
+```
+- Allows executing different statement
+- ⚠️ Remember to add <mark style="background: #FF5582A6;">break</mark>
 
 ---
 #Tags
