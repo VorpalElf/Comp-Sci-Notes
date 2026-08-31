@@ -1,13 +1,24 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-08-31T12:13:04",
+    "Modified_at": "2026-08-31T19:03:20",
     "Pending": {
+        "Welcome.md": [],
+        "Templates/Diary.md": [],
+        "Templates/Summary Notes.md": [],
+        "Templates/Lecture Notes.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md": []
+    },
+    "Completed": {
+        "Welcome.md": [],
+        "Templates/Diary.md": [],
+        "Templates/Summary Notes.md": [],
+        "Templates/Lecture Notes.md": [],
         "Learning Diary/30-08-2026.md": [
             {
-                "id": "4144881230",
+                "id": "2132801274",
                 "legacyId": "",
-                "status": " ",
-                "title": "- [ ] Make Imperative 1.2 📅 2026-08-31",
+                "status": "x",
+                "title": "- [x] Make Imperative 1.2 📅 2026-08-31",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -23,24 +34,13 @@
                     "startLine": 15,
                     "startCharIndex": 0,
                     "endLine": 15,
-                    "endCharIndex": 40
+                    "endCharIndex": 39
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             }
         ],
-        "Welcome.md": [],
-        "Templates/Diary.md": [],
-        "Templates/Summary Notes.md": [],
-        "Templates/Lecture Notes.md": [],
-        "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.2.md": []
-    },
-    "Completed": {
-        "Welcome.md": [],
-        "Templates/Diary.md": [],
-        "Templates/Summary Notes.md": [],
-        "Templates/Lecture Notes.md": [],
-        "Lecture Notes/Archived/COMS10016/Imperative/Imperative 1.2.md": []
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md": []
     }
 }

@@ -31,15 +31,14 @@ return 0;
 ## Arithmetic Expressions
 ![[Screenshot 2026-08-31 at 12.10.23 PM.png]]
 
-## Input
+## Input & Types
 ```C
 int length;
 scanf("%d", &length);
 ```
 - %d: Set type as integer
-- 
-
-## Diagrams
+- &: Allocate data to address of variable length
+![[Screenshot 2026-08-31 at 6.51.58 PM.png]]
 
 ---
-#Tags
+#Imperative 
