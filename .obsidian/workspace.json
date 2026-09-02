@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "598c1f5eec188a4d",
+        "id": "fdb831df864b37e1",
         "type": "tabs",
         "children": [
           {
-            "id": "11b22bba7278b08c",
+            "id": "f65b8a87908abc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
+                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 1.2"
+              "title": "Imperative 2.2"
             }
           },
           {
-            "id": "682f46decd5679a7",
+            "id": "2527b5864b740b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.2.md",
+                "file": "Imperative 2.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1.2"
-            }
-          },
-          {
-            "id": "21025caac1372316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperative 2.1"
+              "title": "Imperative 2.3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,16 +261,18 @@
       "task-board:Open task board": false
     }
   },
-  "active": "2145db0fa14992bb",
+  "active": "2527b5864b740b25",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.2.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 2",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
+    "Imperative 2.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
-    "Lecture Notes/Archived/COMS10015/Week 1",
-    "Lecture Notes/Archived/COMS10015",
+    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 2",
+    "Lecture Notes/Archived/COMS10015/Week 1",
+    "Lecture Notes/Archived/COMS10015",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1",
     "Attachments/Screenshot 2026-08-31 at 6.51.58 PM.png",
     "Attachments/Screenshot 2026-08-31 at 12.10.23 PM.png",

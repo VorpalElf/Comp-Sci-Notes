@@ -35,4 +35,4 @@ int nextHailstone(int x) {
 - ⚠️ Remember to add <mark style="background: #FF5582A6;">break</mark>
 
 ---
-#Tags
+#Imperative 

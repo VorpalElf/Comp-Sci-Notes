@@ -38,9 +38,27 @@ void dayRoutine(int day) {
 }
 ```
 
+## Conversion
+```C
+#include <stdio.h>
+float x = 5.0001;
+printf("Number:%7f\n", x);
+```
+
+## Ternary Operator
+```C
+int max = a > b ? a : b;
+
+// Identical to
+int max;
+if (a>b) {
+	max = a;
+} else {
+	max = b;
+}
+```
 
 
-## Diagrams
 
 ---
-#Tags
+#Imperative

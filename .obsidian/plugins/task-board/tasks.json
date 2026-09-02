@@ -1,12 +1,14 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-09-01T16:21:06",
+    "Modified_at": "2026-09-02T14:35:31",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
         "Templates/Summary Notes.md": [],
         "Templates/Lecture Notes.md": [],
-        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md": []
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -41,6 +43,8 @@
                 "reminder": ""
             }
         ],
-        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md": []
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md": [],
+        "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md": []
     }
 }
