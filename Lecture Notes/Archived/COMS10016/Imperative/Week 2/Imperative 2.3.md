@@ -14,7 +14,16 @@ seq[1] = 5;
 seq[2] = 4;
 ```
 - 0-indexed array
+- <mark style="background: #FFB86CA6;">Static</mark> (i.e. fixed-length), unless using malloc
+- 
 
+## Pass Values
+### Pass by Value
+- Variable copied to the argument
+- No effect on original
+```C
+
+```
 
 
 ## Diagrams

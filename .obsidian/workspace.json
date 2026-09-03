@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f65b8a87908abc1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperative 2.2"
-            }
-          },
-          {
             "id": "2527b5864b740b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imperative 2.3.md",
+                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.3.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Imperative 2.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,9 +248,10 @@
   },
   "active": "2527b5864b740b25",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
-    "Imperative 2.3.md",
+    "Untitled.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.3.md",
     "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
