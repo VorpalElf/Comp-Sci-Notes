@@ -4,7 +4,7 @@ Lecturer:
   - Tilo Burghardt
 Course Name:
   - COMS10016
-Lecture Name: Searching
+Lecture Name: Searching & Runtime Complexity
 ---
 ## Introduction
 
