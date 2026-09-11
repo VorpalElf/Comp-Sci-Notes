@@ -22,13 +22,6 @@ Proposition is a statement where
 |        | Implication                                                       | ![{\displaystyle \Rightarrow }](https://wikimedia.org/api/rest_v1/media/math/render/svg/469b737d167b9b28a74e27c7f5e35b5ea9256100) |
 |        | Equivalence                                                       | ≡                                                                                                                                 |
 ## Simplifications
-| Name          | Axiom(s)                                               | Hints 💡                                  |
-| ------------- | ------------------------------------------------------ | ----------------------------------------- |
-| Commutativity | x ∧ y ≡ y ∧ x                                          |                                           |
-| Association   | (x ∧ y) ∧ z ≡ x ∧ (y ∧ z)<br>(x ∨ y) ∨ z ≡ x ∨ (y ∨ z) | Move brackets                             |
-| Distribution  | x ∧ (y ∨ z) ≡ (x∧y)∨(x∧z)<br>x ∨ (y ∧ z) ≡ (x∨y)∧(x∨z) | Multiplications<br>AND -> OR<br>OR -> AND |
-| Absorption    | x ∧ (x ∨ y) ≡ x                                        |                                           |
-| de Morgan     | ¬(x ∧ y) ≡ ¬x ∨ ¬y                                     | Flip operator                             |
 
 | Name        | Axiom 1    | Axiom 2    |
 | ----------- | ---------- | ---------- |
@@ -36,6 +29,29 @@ Proposition is a statement where
 | Null        | x ∧ 0 ≡ 0  | x ∨ 1 ≡ 1  |
 | Idempotency | x ∧ x ≡ x  | x ∨ x ≡ x  |
 | Inverse     | x ∧ ¬x ≡ 0 | x ∨ ¬x ≡ 1 |
+
+| Name          | Axiom(s)                                                   | Hints 💡                                  |
+| ------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| Commutativity | $x ∧ y ≡ y ∧ x$                                            |                                           |
+| Association   | $(x ∧ y) ∧ z ≡ x ∧ (y ∧ z)$<br>$(x ∨ y) ∨ z ≡ x ∨ (y ∨ z)$ | Move brackets                             |
+| Distribution  | $x ∧ (y ∨ z) ≡ (x∧y)∨(x∧z)$<br>$x ∨ (y ∧ z) ≡ (x∨y)∧(x∨z)$ | Multiplications<br>AND -> OR<br>OR -> AND |
+| Absorption    | $x ∧ (x ∨ y) ≡ x$                                          |                                           |
+| de Morgan     | $¬(x ∧ y) ≡ ¬x ∨ ¬y$                                       | Flip operator                             |
+| Equivalence   | $x ≡ y ≡ (x ⇒ y) ∧ (y ⇒ x)$                                | Two-way                                   |
+| Implication   | $x ⇒ y ≡ ¬x ∨ y$                                           | one-way                                   |
+| Involution    | $¬¬x ≡ x$                                                  |                                           |
+
+## Principle of Duality
+Dual expression $e^D$ is formed by
+1. Leaving each variables as is
+2. Swapping each ∧ with ∨ and vice versa (<mark style="background: #FFB86CA6;">Flip operator</mark>)
+3. Swapping each 0 with 1 and vice versa
+⭐️ If $e ≡ f$, then $e^D ≡ f^D$ 
+E.g. $e = x ∧ (y ∨ z) ⇒ x ∨ (y ∧ z)$
+
+## Normal Form
+#### Sum of Products (SoP)
+
 
 
 
