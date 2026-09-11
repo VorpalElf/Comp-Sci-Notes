@@ -27,6 +27,8 @@ Proposition is a statement where
 | Commutativity | x ∧ y ≡ y ∧ x                                          |                                           |
 | Association   | (x ∧ y) ∧ z ≡ x ∧ (y ∧ z)<br>(x ∨ y) ∨ z ≡ x ∨ (y ∨ z) | Move brackets                             |
 | Distribution  | x ∧ (y ∨ z) ≡ (x∧y)∨(x∧z)<br>x ∨ (y ∧ z) ≡ (x∨y)∧(x∨z) | Multiplications<br>AND -> OR<br>OR -> AND |
+| Absorption    | x ∧ (x ∨ y) ≡ x                                        |                                           |
+| de Morgan     | ¬(x ∧ y) ≡ ¬x ∨ ¬y                                     | Flip operator                             |
 
 | Name        | Axiom 1    | Axiom 2    |
 | ----------- | ---------- | ---------- |
@@ -35,12 +37,9 @@ Proposition is a statement where
 | Idempotency | x ∧ x ≡ x  | x ∨ x ≡ x  |
 | Inverse     | x ∧ ¬x ≡ 0 | x ∨ ¬x ≡ 1 |
 
-| Name       | Axiom(s)           |
-| ---------- | ------------------ |
-| Absorption | x ∧ (x ∨ y) ≡ x    |
-| de Morgan  | ¬(x ∧ y) ≡ ¬x ∨ ¬y |
 
-## Diagrams
+
+
 
 ---
-#Tags
+#Boolean 

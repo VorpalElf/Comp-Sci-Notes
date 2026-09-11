@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.1.md",
+                "file": "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 3.1"
+              "title": "Lecture 1"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,18 +275,21 @@
       "task-board:Open task board": false
     }
   },
-  "active": "8a54889052244cdd",
+  "active": "77dfe05cc6afacd8",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
+    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
+    "Templates/Lecture Notes.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.1.md",
+    "Templates/Summary Notes.md",
+    "Templates/Diary.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3",
     "Imperative Extras.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.3.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
-    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2",
     "Lecture Notes/Archived/COMS10015/Week 1",
@@ -298,9 +301,6 @@
     "Day Planner.md",
     "Learning Diary/30-08-2026.md",
     "Wiki/Glossary.base",
-    "Templates/Diary.md",
-    "Templates/Summary Notes.md",
-    "Templates/Lecture Notes.md",
     "Attachments/Screenshot 2026-08-30 at 11.37.42 PM.png",
     "Untitled.base",
     "Kanban.md",
