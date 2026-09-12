@@ -50,7 +50,10 @@ Dual expression $e^D$ is formed by
 E.g. $e = x ∧ (y ∨ z) ⇒ x ∨ (y ∧ z)$
 
 ## Normal Form
-#### Sum of Products (SoP)
+Sum: OR
+Products: And
+Sum of Products: (A ∧ B) ∨ (B ∧ C)
+Products of Sum: (A ∨ B) ∧ (B ∨ C)
 
 
 
