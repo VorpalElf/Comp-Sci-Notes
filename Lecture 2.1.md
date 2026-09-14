@@ -12,6 +12,19 @@ Lecture Name: Integer Representation
 - Most Significant Bit: Heaviest bit
 - Least Significant Bit: Lightest bit
 
+## Hamming
+- Hamming Weight: No. of bits = 1
+- $\sum_{i=0}^{n-1} X_i$
+- Hamming Distance: number of bits in X that diﬀer from the corresponding bit in Y
+- $\sum_{i=0}^{n-1} X_i \oplus Y_i$
+
+## Positional Number System
+- Express the value of a number $x$ using a base-*b*
+- $\sum_{i=0}^{n-1} x̂_i \cdot b^i$
+⚠️ If $b > 10$, use letters to represent values > 9
+
+
+
 
 
 
