@@ -24,8 +24,8 @@ Lecture Name: Integer Representation
 ⚠️ If $b > 10$, use letters to represent values > 9
 
 ### Numeric Operations
-- Left Shift: Multiplication by $b^y$
-- Right Shift: Division $b^y$
+- Left Shift: Multiplication by $b^y$ (Notated by $<<$)
+- Right Shift: Division $b^y$ (Notated by $>>$)
 - 
 
 
