@@ -23,10 +23,21 @@ Lecture Name: Integer Representation
 - $\sum_{i=0}^{n-1} x̂_i \cdot b^i$
 ⚠️ If $b > 10$, use letters to represent values > 9
 
-### Numeric Operations
+### Unsigned Binary
 - Left Shift: Multiplication by $b^y$ (Notated by $<<$)
 - Right Shift: Division $b^y$ (Notated by $>>$)
-- 
+
+| Aim                    | Operation                                |
+| ---------------------- | ---------------------------------------- |
+| Set bits               | $x \vee (1 \ll i)$ or $x \vee (0 \ll i)$ |
+| Extract Bits           | $(x \gg i) \land 1$                      |
+| Extract m-bit sub-word | $(x \gg i) \land ((1 \ll m) -1)$         |
+
+### Signed Binary
+| Name             | Description                  | Example                           |
+| ---------------- | ---------------------------- | --------------------------------- |
+| Sign-Magnitude   | First bit: Positive/Negative | $1111 1011_{(2)}$ = $-123_{(10)}$ |
+| Two's Complement |                              |                                   |
 
 
 
