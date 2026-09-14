@@ -34,12 +34,14 @@ Lecture Name: Integer Representation
 | Extract m-bit sub-word | $(x \gg i) \land ((1 \ll m) -1)$         |
 
 ### Signed Binary
-| Name             | Description                  | Example                           |
-| ---------------- | ---------------------------- | --------------------------------- |
-| Sign-Magnitude   | First bit: Positive/Negative | $1111 1011_{(2)}$ = $-123_{(10)}$ |
-| Two's Complement |                              |                                   |
+| Name             | Description                        | Example                           |
+| ---------------- | ---------------------------------- | --------------------------------- |
+| Sign-Magnitude   | First bit: Sign<br>Rest: Positive  | $1111 1011_{(2)}$ = $-123_{(10)}$ |
+| Two's Complement | First bit: Sign<br>Rest: -256+.... | $1000 0101_{(2)}$ = $-123_{(10)}$ |
+
 
 
 
 
 ---
+#Binary
