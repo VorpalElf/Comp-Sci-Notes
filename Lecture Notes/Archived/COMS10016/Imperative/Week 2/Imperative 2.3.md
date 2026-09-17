@@ -31,4 +31,4 @@ seq[2] = 4;
 ## Diagrams
 
 ---
-#Tags
+#Imperative

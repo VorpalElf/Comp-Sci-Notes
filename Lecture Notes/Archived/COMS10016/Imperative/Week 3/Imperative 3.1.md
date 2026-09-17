@@ -123,3 +123,4 @@ printf("%s", str3);  // prints "Hi" and "Lo"
 
 
 ---
+#Imperative
