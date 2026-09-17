@@ -27,8 +27,5 @@ seq[2] = 4;
 
 
 
-
-## Diagrams
-
 ---
 #Imperative
