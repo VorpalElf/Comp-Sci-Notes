@@ -49,6 +49,5 @@ int binarySearch(char c, int n, char a[n]) {
 - Discard coefficients
 - E.g. $an+b \implies n$
 
-
 ---
 #Imperative
