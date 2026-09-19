@@ -7,7 +7,11 @@ Course Name:
 Lecture Name: Integer Arithmetic
 ---
 ## Introduction
-
+```C
+# Assume little endian
+int ans = 0;
+int carry = 0;
+```
 
 
 
