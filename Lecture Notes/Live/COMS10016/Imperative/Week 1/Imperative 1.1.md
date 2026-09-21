@@ -16,7 +16,37 @@ Lecture Name: Introduction
 
 
 ![[Screenshot 2026-08-30 at 11.37.42 PM.png]]
-- Must contain exactly one ```main``` function (i.e. )
+- Must contain exactly one ```main``` function (```main``` is the )
+
+## Running
+```Bash
+$ clang -std=c11 -Wall minimal.c -o minimal
+$ ./minimal
+```
+- clang: Runs clang compiler
+- -std=...: Language standard to use
+- -Wall: Turn on all standard warnings
+- -o: Customise output filename
+
+## Library Modules
+```C
+#include <stdio.h>
+```
+- stdio.h is a <mark style="background: #FF5582A6;">header</mark> file
+- stdio: standard input/output
+- <> means "look in the standard place" (i.e. /usr/include/stdio.h)
+
+## Output
+```C
+#include <stdio.h>
+
+int main(void) {
+	// Print
+	printf("Hello World\n");
+	return 0;
+}
+```
+
 
 
 
