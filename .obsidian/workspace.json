@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,11 +277,11 @@
       "task-board:Open task board": false
     }
   },
-  "active": "2145db0fa14992bb",
+  "active": "6d3aed0f5cd2a1eb",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
     "Lecture Notes/Live/COMS10015/Arch 1.2.md",
     "Lecture Notes/Live/COMS10014/Maths 1.1.md",
+    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
     "Attachments/Screenshot 2026-09-21 at 11.38.51 AM.png",
     "Attachments/Screenshot 2026-09-21 at 11.34.59 AM.png",
     "Lecture Notes/Live/COMS10014",

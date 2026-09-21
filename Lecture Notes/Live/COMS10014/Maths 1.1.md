@@ -62,6 +62,7 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 ## Functional Completeness
 - Functions that could express any arbitrary Boolean function
 - E.g. $\land, \lor$ and $\neg$
+- XOR is derived from these operators
 
 
 ---
