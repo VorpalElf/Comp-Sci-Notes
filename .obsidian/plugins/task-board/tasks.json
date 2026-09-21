@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-09-21T10:06:50",
+    "Modified_at": "2026-09-21T11:46:46",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -19,7 +19,7 @@
         "Templates/Summary Notes.md": [],
         "Learning Diary/30-08-2026.md": [
             {
-                "id": "1302365797",
+                "id": "54480447",
                 "legacyId": "",
                 "status": "x",
                 "title": "- [x] Make Imperative 1.2 📅 2026-08-31",
