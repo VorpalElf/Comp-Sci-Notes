@@ -6,15 +6,23 @@ Course Name:
   - COMS10015
 Lecture Name: Integer Arithmetic
 ---
-## Introduction
-```C
-# Assume little endian
-int ans = 0;
-int carry = 0;
-int temp = 0;
-int base = 2;
 
-for (int i = 0; i < )
+```Python
+# Assume little endian
+def add_binary(x, y, n, b, ci):
+	r = [0] *n
+	c = ci  # Technically can name as c, but ci to demo carry input
+	
+	for i in range(n):
+		total = x[i] + y[i] + c
+		r[i] = total % 2
+		if (total >= b):
+			c = 1
+		else:
+			c = 0
+			
+	co = c  # co: carry out
+	return r, co
 ```
 
 
