@@ -48,7 +48,7 @@ Lecture Name: Boolean & Truth Tables
 4. Disjunction
 5. Implication
 E.g. $p \land q \lor r$  means $(p \land q) \lor r$
-💡Treat AND as SUM, OR as Products
+💡Treat AND as $\times$, OR as $+$
 
 ## Associativity
 - Operations that are interchangeable
