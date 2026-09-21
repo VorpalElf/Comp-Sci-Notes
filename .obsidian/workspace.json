@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch 1.1.md",
+                "file": "Lecture Notes/Live/COMS10016/Imperative/Imperative 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch 1.1"
+              "title": "Imperative 1.1"
             }
           }
         ],
@@ -279,13 +279,20 @@
   },
   "active": "8970dc1de5c8a742",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.2.md",
-    "Arch 1.1.md",
+    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
+    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.1.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Imperative 1.1.md",
+    "Attachments/Pasted image 20260830213508.png",
+    "Lecture Notes/Live/COMS10016/Imperative",
+    "Lecture Notes/Live/COMS10016",
+    "Lecture Notes/Live/COMS10015",
+    "Lecture Notes/Live/COMS10015/Arch 1.1.md",
     "Lecture Notes/Live",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
-    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.1.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md",
     "Attachments/Screenshot 2026-08-31 at 6.51.58 PM.png",
     "Templates/Summary Notes.md",
@@ -293,9 +300,7 @@
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.1.md",
-    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
     "Lecture Notes/Archived/COMS10015/Week 2",
-    "Welcome.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.3.md",
     "Templates/Lecture Notes.md",
     "Templates/Diary.md",
@@ -308,13 +313,9 @@
     "Attachments/Screenshot 2026-08-31 at 12.10.23 PM.png",
     "Day Planner.md",
     "Learning Diary/30-08-2026.md",
-    "Wiki/Glossary.base",
     "Attachments/Screenshot 2026-08-30 at 11.37.42 PM.png",
-    "Untitled.base",
     "Kanban.md",
     "Work Tracker.md",
-    "Lecture Notes",
-    "Attachments/Pasted image 20260830213508.png",
     "Attachments/Pasted image 20260830214343.png",
     "Attachments/Pasted image 20260830213722.png",
     "Attachments/Pasted image 20260830213906.png",
@@ -322,8 +323,6 @@
     "Attachments/Pasted image 20260830213642.png",
     "Imp 1.1.md",
     "Learning Diary/Untitled.md",
-    "Learning Diary/2026-08-30.md",
-    "Archived/COMS10016/Imperative/Week 1.md",
     "Untitled.canvas"
   ]
 }
