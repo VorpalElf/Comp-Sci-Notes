@@ -25,6 +25,16 @@ signed char byte2 = (signed char)byte;
 🚨 Avoid using casts to preserve accuracy and expected outcome
 ⚠️ Use -Wnarrowing or -Wconversion for compiler alerts
 
+```C
+unsigned short word = 0x00FF; 
+unsigned char *bytes = &word;
+printf("%hhu, %hhu\n", bytes[0], bytes[1]);
+```
+- Output byte-by-byte
+- Endian-ness causes different output order (255, 0 or 0, 255)
+
+## Integer Promotion
+
 
 
 

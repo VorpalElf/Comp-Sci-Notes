@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaf86154bf36f65a",
+            "id": "0c5bc3600a7ea343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.1.md",
+                "file": "Imperative 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 1.1"
+              "title": "Imperative 1.2"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
+                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 1.1"
+              "title": "Imperative 1.2"
+            }
+          },
+          {
+            "id": "e8a280b92ee1a184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imperative 3.3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,10 +277,12 @@
       "task-board:Open task board": false
     }
   },
-  "active": "aaf86154bf36f65a",
+  "active": "e8a280b92ee1a184",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
+    "Imperative 1.2.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.1.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.1.md",
     "Lecture Notes/Live/COMS10015/Arch 1.2.md",
     "Lecture Notes/Live/COMS10014/Maths 1.1.md",
     "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
@@ -275,7 +292,6 @@
     "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.2.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.1.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 1",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
     "Welcome.md",
     "Attachments/Pasted image 20260830213508.png",
     "Lecture Notes/Live/COMS10016/Imperative",
