@@ -31,13 +31,16 @@ Lecture Name: Boolean & Truth Tables
 | Implication | IF... THEN... |                                                   | $p \implies q$ |
 
 
-## Implication & Vacuous
-| p      | q      | $p \Rightarrow q$ | Examples |
-| ------ | ------ | ----------------- | -------- |
-| $\bot$ | $\bot$ | $\top$            |          |
-| $\bot$ | $\top$ | $\top$            |          |
-| $\top$ | $\bot$ | $\bot$            |          |
-| $\top$ | $\top$ | $\top$            |          |
+## Implication
+
+
+| p      | q      | $p \Rightarrow q$ | Examples                                            |
+| ------ | ------ | ----------------- | --------------------------------------------------- |
+| $\bot$ | $\bot$ | $\top$            | Didn't rain, so promise not broken (vacuously true) |
+| $\bot$ | $\top$ | $\top$            | Didn't rain, so promise not broken (vacuously true) |
+| $\top$ | $\bot$ | $\bot$            | Did rain but no umbrella                            |
+| $\top$ | $\top$ | $\top$            | Did rain and brought umbrella                       |
+- E.g. p = rain, q bring umbrella
 - ⚠️ Convention: $p \Rightarrow q \Rightarrow r \equiv p \Rightarrow (q \Rightarrow r)$
 - Vacuous: Makes no real claim about the world
 
@@ -66,4 +69,4 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 
 
 ---
-#Maths #Logic #Correction
+#Maths #Logic 

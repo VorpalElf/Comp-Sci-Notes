@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Live/COMS10014/Maths 1.1.md",
+                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths 1.1"
+              "title": "Imperative 3.3"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Functional 1.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Incomplete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -278,11 +278,13 @@
       "task-board:Open task board": false
     }
   },
-  "active": "67fe370ae794116f",
+  "active": "50c578bca17eb070",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10012/Lecture 1.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.3.md",
+    "Templates/Summary Notes.md",
+    "Lecture Notes/Live/COMS10012/Lecture 1.md",
     "Lecture Notes/Live/COMS10014/Maths 1.1.md",
     "Lecture Notes/Live/COMS10016/Functional",
     "Glossary.md",
@@ -295,7 +297,6 @@
     "Lecture Notes/Live/COMS10012",
     "Conjunction.md",
     "Lecture Notes/Live/COMS10015/Arch 1.2.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Attachments/Screenshot 2026-09-21 at 11.43.37 PM.png",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 1/Imperative 1.2.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md",
@@ -312,7 +313,6 @@
     "Lecture Notes/Live",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md",
     "Attachments/Screenshot 2026-08-31 at 6.51.58 PM.png",
-    "Templates/Summary Notes.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.3.md",
