@@ -32,14 +32,13 @@ Lecture Name: Boolean & Truth Tables
 
 
 ## Implication & Vacuous
-| p      | q      | $p \implies q$ |
-| ------ | ------ | -------------- |
-| $\bot$ | $\bot$ | $\top$         |
-| $\bot$ | $\top$ | $\top$         |
-| $\top$ | $\bot$ | $\bot$         |
-| $\top$ | $\top$ | $\top$         |
+| p      | q      | $p \implies q$ | Examples |
+| ------ | ------ | -------------- | -------- |
+| $\bot$ | $\bot$ | $\top$         |          |
+| $\bot$ | $\top$ | $\top$         |          |
+| $\top$ | $\bot$ | $\bot$         |          |
+| $\top$ | $\top$ | $\top$         |          |
 - Vacuous: Makes no real claim about the world
-- E.g. I will run a marathon if the Moon is larger than the Sun
 
 ## Operator Precedence
 1. Parentheses
