@@ -13,14 +13,14 @@ Proposition is a statement where
 3. can include <mark style="background: #FFF3A3A6;">free variables</mark> (e.g. the temperature is $x$˚C)
 4. can be represented using <mark style="background: #BBFABBA6;">short-hand variable</mark> or function (e.g. $g(x) = x˚$C)
 
-| Common | Prof.                                                             | Notation |
-| ------ | ----------------------------------------------------------------- | -------- |
-| NOT    | Negation                                                          | ¬        |
-| AND    | Conjunction                                                       | ∧        |
-| OR     | <mark style="background: #FFB86CA6;">Inclusive</mark> Disjunction | ∨        |
-| XOR    | <mark style="background: #FFB8EBA6;">Exclusive</mark> Disjunction | $\xor$   |
-|        | Implication                                                       |          |
-|        | Equivalence                                                       | ≡        |
+| Common | Prof.                                                             | Notation   |
+| ------ | ----------------------------------------------------------------- | ---------- |
+| NOT    | Negation                                                          | ¬          |
+| AND    | Conjunction                                                       | ∧          |
+| OR     | <mark style="background: #FFB86CA6;">Inclusive</mark> Disjunction | ∨          |
+| XOR    | <mark style="background: #FFB8EBA6;">Exclusive</mark> Disjunction | $\oplus$   |
+|        | Implication                                                       | $\implies$ |
+|        | Equivalence                                                       | ≡          |
 - Truth table: Statement of the expression
 
 ## Boolean Algebra
