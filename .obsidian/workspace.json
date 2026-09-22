@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,8 +292,9 @@
       "task-board:Open task board": false
     }
   },
-  "active": "67fe370ae794116f",
+  "active": "50c578bca17eb070",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260922114934.png",
     "Welcome.md",
     "Linux Cheat Sheet.md",
     "Lecture 1.md",
@@ -333,7 +334,6 @@
     "Templates/Lecture Notes.md",
     "Templates/Diary.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3",
-    "Imperative Extras.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2",
     "Attachments/Screenshot 2026-08-31 at 12.10.23 PM.png",
     "Attachments/Screenshot 2026-08-30 at 11.37.42 PM.png",

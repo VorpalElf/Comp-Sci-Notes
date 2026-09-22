@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-09-22T11:37:42",
+    "Modified_at": "2026-09-22T11:50:17",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -12,8 +12,7 @@
         "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md": [],
         "Learning Diary/30-08-2026.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
-        "Lecture Notes/Live/COMS10015/Arch 1.2.md": [],
-        "Lecture 1.md": []
+        "Lecture Notes/Live/COMS10015/Arch 1.2.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -53,7 +52,6 @@
         "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.1.md": [],
         "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
-        "Lecture Notes/Live/COMS10015/Arch 1.2.md": [],
-        "Lecture 1.md": []
+        "Lecture Notes/Live/COMS10015/Arch 1.2.md": []
     }
 }

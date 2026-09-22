@@ -11,6 +11,7 @@ Lecture Name: System Admin
 ```
 <mark style="background: #FFB86CA6;">user group others</mark> <mark style="background: #BBFABBA6;">userName groupName</mark> filename
 
+![[Pasted image 20260922114934.png]]
 
 
 
