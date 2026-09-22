@@ -267,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -292,7 +292,7 @@
       "task-board:Open task board": false
     }
   },
-  "active": "2145db0fa14992bb",
+  "active": "b793f07a9de403a3",
   "lastOpenFiles": [
     "Lecture Notes/Live/COMS10012/Lecture 1.md",
     "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
