@@ -32,12 +32,13 @@ Lecture Name: Boolean & Truth Tables
 
 
 ## Implication & Vacuous
-| p      | q      | $p \implies q$ | Examples |
-| ------ | ------ | -------------- | -------- |
-| $\bot$ | $\bot$ | $\top$         |          |
-| $\bot$ | $\top$ | $\top$         |          |
-| $\top$ | $\bot$ | $\bot$         |          |
-| $\top$ | $\top$ | $\top$         |          |
+| p      | q      | $p \Rightarrow q$ | Examples |
+| ------ | ------ | ----------------- | -------- |
+| $\bot$ | $\bot$ | $\top$            |          |
+| $\bot$ | $\top$ | $\top$            |          |
+| $\top$ | $\bot$ | $\bot$            |          |
+| $\top$ | $\top$ | $\top$            |          |
+- ⚠️ Convention: $p \Rightarrow q \Rightarrow r \equiv p \Rightarrow (q \Rightarrow r)$
 - Vacuous: Makes no real claim about the world
 
 ## Operator Precedence
