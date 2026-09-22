@@ -32,7 +32,7 @@ Lecture Name: Boolean & Truth Tables
 
 
 ## Implication
-
+$p \Rightarrow q \equiv \neg p \lor q$
 
 | p      | q      | $p \Rightarrow q$ | Examples                                            |
 | ------ | ------ | ----------------- | --------------------------------------------------- |
