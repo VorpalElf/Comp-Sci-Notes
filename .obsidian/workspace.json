@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Live/COMS10014/Maths 1.1.md",
+                "file": "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths 1.1"
+              "title": "Lecture 1"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
+                "file": "Lecture Notes/Live/COMS10014/Maths 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 3.3"
+              "title": "Maths 1.1"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Functional 1.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,19 +278,19 @@
       "task-board:Open task board": false
     }
   },
-  "active": "50c578bca17eb070",
+  "active": "67fe370ae794116f",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.3.md",
-    "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
-    "Templates/Summary Notes.md",
-    "Lecture Notes/Live/COMS10012/Lecture 1.md",
+    "Lecture Notes/Live/COMS10012/Software 1.md",
     "Lecture Notes/Live/COMS10014/Maths 1.1.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
+    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
+    "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
+    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.2.md",
+    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.1.md",
+    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.3.md",
+    "Templates/Summary Notes.md",
     "Lecture Notes/Live/COMS10016/Functional",
     "Glossary.md",
-    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.1.md",
-    "Lecture Notes/Archived/COMS10015/Week 1/Lecture 1.md",
-    "Lecture Notes/Archived/COMS10015/Week 2/Lecture 2.2.md",
     "Attachments/Pasted image 20260922114934.png",
     "Welcome.md",
     "Linux Cheat Sheet.md",
