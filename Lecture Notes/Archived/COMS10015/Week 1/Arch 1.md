@@ -21,7 +21,8 @@ Proposition is a statement where
 | XOR    | <mark style="background: #FFB8EBA6;">Exclusive</mark> Disjunction | ![{\displaystyle \oplus }](https://wikimedia.org/api/rest_v1/media/math/render/svg/8b16e2bdaefee9eed86d866e6eba3ac47c710f60)      |
 |        | Implication                                                       | ![{\displaystyle \Rightarrow }](https://wikimedia.org/api/rest_v1/media/math/render/svg/469b737d167b9b28a74e27c7f5e35b5ea9256100) |
 |        | Equivalence                                                       | ≡                                                                                                                                 |
-## Simplifications
+
+## Laws of Boolean Algebra
 
 | Name        | Axiom 1    | Axiom 2    |
 | ----------- | ---------- | ---------- |

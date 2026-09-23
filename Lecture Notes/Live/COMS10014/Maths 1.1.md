@@ -69,4 +69,4 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 
 
 ---
-#Maths #Logic 
+#Maths #Logic #Boolean

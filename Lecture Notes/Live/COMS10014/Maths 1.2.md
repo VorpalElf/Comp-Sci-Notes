@@ -7,16 +7,13 @@ Course Name:
 Lecture Name: Boolean Algebra
 ---
 ## Introduction
-Letters used in maths
-$x + y = z$
+- Syntax: Representations
+- Semantics: Meaning/Thing
+- Equivalent: Equal under all assignments (i.e. same output in truth table)
+⭐️ Use $\phi \space \psi \space \rho$ to represent propositions
+⭐️ Use p, q, r to represent variables
 
-Syntax: Representations
-Semantics: Meaning
-Equivalent: Same output in Truth Table
-Two propositions are equivalent if they are equal under all assignments
-⭐️ Use $
-
-## Algebra
+## Laws of Boolean Algebra
 | Name        | Axiom 1    | Axiom 2    |
 | ----------- | ---------- | ---------- |
 | Identity    | x ∧ 1 ≡ x  | x ∨ 0 ≡ x  |
@@ -39,3 +36,4 @@ Two propositions are equivalent if they are equal under all assignments
 
 
 ---
+#Maths #Boolean 
