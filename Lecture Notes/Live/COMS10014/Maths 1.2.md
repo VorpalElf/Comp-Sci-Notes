@@ -31,9 +31,19 @@ Lecture Name: Boolean Algebra
 | Equivalence   | $x ≡ y ≡ (x ⇒ y) ∧ (y ⇒ x)$                                | Two-way                                   |
 | Implication   | $x ⇒ y ≡ ¬x ∨ y$                                           | one-way                                   |
 | Involution    | $¬¬x ≡ x$                                                  |                                           |
-
+## Extra
+| Name          | Axiom(s)                                                   | Hints 💡                                  |
+| ------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| Commutativity | $xy ≡ yx$                                                  |                                           |
+| Association   | $(xy)z ≡ x(yz)$<br>$(x+y)+z ≡ x+(y+z)$                     | Move brackets                             |
+| Distribution  | $x ∧ (y ∨ z) ≡ (x∧y)∨(x∧z)$<br>$x ∨ (y ∧ z) ≡ (x∨y)∧(x∨z)$ | Multiplications<br>AND -> OR<br>OR -> AND |
+| Absorption    | $x ∧ (x ∨ y) ≡ x$                                          |                                           |
+| de Morgan     | $¬(x ∧ y) ≡ ¬x ∨ ¬y$                                       | Flip operator                             |
+| Equivalence   | $x ≡ y ≡ (x ⇒ y) ∧ (y ⇒ x)$                                | Two-way                                   |
+| Implication   | $x ⇒ y ≡ ¬x ∨ y$                                           | one-way                                   |
+| Involution    | $¬¬x ≡ x$                                                  |                                           |
 
 
 
 ---
-#Maths #Boolean 
+#Maths #Boolean #Incomplete
