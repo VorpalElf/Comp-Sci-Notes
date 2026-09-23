@@ -24,12 +24,12 @@ Proposition is a statement where
 
 ## Laws of Boolean Algebra
 
-| Name        | Axiom 1    | Axiom 2    |
-| ----------- | ---------- | ---------- |
-| Identity    | x ∧ 1 ≡ x  | x ∨ 0 ≡ x  |
-| Null        | x ∧ 0 ≡ 0  | x ∨ 1 ≡ 1  |
-| Idempotency | x ∧ x ≡ x  | x ∨ x ≡ x  |
-| Inverse     | x ∧ ¬x ≡ 0 | x ∨ ¬x ≡ 1 |
+| Name        | Axiom 1      | Axiom 2      |
+| ----------- | ------------ | ------------ |
+| Identity    | $x ∧ 1 ≡ x$  | $x ∨ 0 ≡ x$  |
+| Null        | $x ∧ 0 ≡ 0$  | $x ∨ 1 ≡ 1$  |
+| Idempotency | $x ∧ x ≡ x$  | $x ∨ x ≡ x$  |
+| Inverse     | $x ∧ ¬x ≡ 0$ | $x ∨ ¬x ≡ 1$ |
 
 | Name          | Axiom(s)                                                   | Hints 💡                                  |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------- |

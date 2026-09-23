@@ -51,7 +51,7 @@ $p \Rightarrow q \equiv \neg p \lor q$
 4. Disjunction
 5. Implication
 E.g. $p \land q \lor r$  means $(p \land q) \lor r$
-💡Treat AND as $\times$, OR as $+$
+💡 Treat AND as $\times$, OR as $+$
 
 ## Associativity
 - Operations that are interchangeable

@@ -14,12 +14,13 @@ Lecture Name: Boolean Algebra
 ⭐️ Use p, q, r to represent variables
 
 ## Laws of Boolean Algebra
-| Name        | Axiom 1    | Axiom 2    |
-| ----------- | ---------- | ---------- |
-| Identity    | x ∧ 1 ≡ x  | x ∨ 0 ≡ x  |
-| Null        | x ∧ 0 ≡ 0  | x ∨ 1 ≡ 1  |
-| Idempotency | x ∧ x ≡ x  | x ∨ x ≡ x  |
-| Inverse     | x ∧ ¬x ≡ 0 | x ∨ ¬x ≡ 1 |
+| Name        | Axiom 1      | Axiom 2      |
+| ----------- | ------------ | ------------ |
+| Identity    | $x ∧ 1 ≡ x$  | $x ∨ 0 ≡ x$  |
+| Null        | $x ∧ 0 ≡ 0$  | $x ∨ 1 ≡ 1$  |
+| Idempotency | $x ∧ x ≡ x$  | $x ∨ x ≡ x$  |
+| Inverse     | $x ∧ ¬x ≡ 0$ | $x ∨ ¬x ≡ 1$ |
+⭐️ Idempotency: It's just the same, so operators doesn't matter
 
 | Name          | Axiom(s)                                                   | Hints 💡                                  |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------- |
@@ -46,4 +47,4 @@ Lecture Name: Boolean Algebra
 
 
 ---
-#Maths #Boolean #Incomplete
+#Maths #Boolean 

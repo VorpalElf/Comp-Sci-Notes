@@ -25,14 +25,7 @@
   "pluginVersion": "0.35.1",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
-  "icals": [
-    {
-      "name": "UoB",
-      "email": "",
-      "url": "",
-      "color": "#e708be"
-    }
-  ],
+  "icals": [],
   "colorOverrides": [],
   "releaseNotes": true,
   "taskStatusOnCreation": " ",

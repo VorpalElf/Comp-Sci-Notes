@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-09-23T11:20:33",
+    "Modified_at": "2026-09-23T11:45:44",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -13,9 +13,8 @@
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
         "Lecture Notes/Live/COMS10015/Arch 1.2.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md": [],
-        "Lecture Notes/Live/COMS10014/Maths 1.1.md": [],
-        "Lecture Notes/Archived/COMS10015/Week 1/Arch 1.md": [],
-        "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md": []
+        "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md": [],
+        "Lecture Notes/Live/COMS10014/Maths 1.2.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -56,8 +55,7 @@
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
         "Lecture Notes/Live/COMS10015/Arch 1.2.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md": [],
-        "Lecture Notes/Live/COMS10014/Maths 1.1.md": [],
-        "Lecture Notes/Archived/COMS10015/Week 1/Arch 1.md": [],
-        "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md": []
+        "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md": [],
+        "Lecture Notes/Live/COMS10014/Maths 1.2.md": []
     }
 }
