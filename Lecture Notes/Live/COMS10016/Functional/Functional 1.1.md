@@ -40,7 +40,7 @@ ghci> x
 2
 ```
 
-## Functions
+## Functions (i.e. $\lambda$)
 ```ghci
 ghci> (\y -> y) 5
 5
@@ -51,9 +51,22 @@ ghci> (\y -> y + 2) 5
 - Every lambda takes one input
 - Arguments: Things after space
 
-### Turing Machines
+```ghci
+ghci> f = (\y -> (\z -> y + z) 1)
+ghci> f 3
+4
+```
 
+## Syntactic Sugar
+```Haskell
+{- Instead of this -}
+g = \x -> \y -> \z -> x + z
 
+{- We do this -}
+g' = \x y z -> x + z
+
+g'' = x y z = x + z
+```
 
 
 
