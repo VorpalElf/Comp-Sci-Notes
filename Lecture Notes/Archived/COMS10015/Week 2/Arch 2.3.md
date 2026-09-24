@@ -53,6 +53,11 @@ Lecture Name: Transistors & Logic Gates
 7. Strip hardened photoresist
 
 ## Logic Gates
+![[Screenshot 2026-09-24 at 9.13.26 PM.png|301]]
+- $V_{ss}$ : Voltage Source Substrate (i.e. $V = 0$)
+- $V_{dd}$: Voltage Drain Drain (i.e. $V \geq 0$)
+- If $V_x \approx V_{ss}$, $x$ connected to 
+
 
 
 
