@@ -51,4 +51,11 @@ ghci> (\y -> y + 2) 5
 - Every lambda takes one input
 - Arguments: Things after space
 
+### Turing Machines
+
+
+
+
+
 ---
+#Functional

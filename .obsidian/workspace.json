@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch 1.3.md",
+                "file": "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch 1.3"
+              "title": "Functional 1.1"
             }
           }
         ],
@@ -266,12 +266,13 @@
   },
   "active": "e1221c66408ac2be",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10015/Arch 1.2.md",
+    "Functional 1.2.md",
+    "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
     "Arch 1.3.md",
+    "Lecture Notes/Live/COMS10015/Arch 1.2.md",
     "Templates/Lecture Notes.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.3.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md",
-    "Lecture Notes/Live/COMS10016/Functional/Functional 1.1.md",
     "Lecture Notes/Live/COMS10014/Maths 1.2.md",
     "Lecture Notes/Live/COMS10014/Maths 1.1.md",
     "Lecture Notes/Archived/COMS10015/Week 1/Arch 1.md",
@@ -309,7 +310,6 @@
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.1.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.2.md",
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 2/Imperative 2.3.md",
     "Lecture Notes/Archived/COMS10015/Week 2",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3",
     "Untitled.canvas"

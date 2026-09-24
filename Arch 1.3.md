@@ -19,8 +19,6 @@ Lecture Name:
 | AND | $\neg(x \barwedge y)$ |
 | OR  |                       |
 
-| Name | Type |
-|---|
 
 
 
