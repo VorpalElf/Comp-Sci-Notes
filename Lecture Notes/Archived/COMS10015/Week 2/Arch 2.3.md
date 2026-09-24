@@ -44,8 +44,15 @@ Lecture Name: Transistors & Logic Gates
 
 ![[cmos.gif|350]]
 
+1. Start with a clean, prepared wafer
+2. Apply a layer of substrate material, e.g. metal or semi-conductor
+3. Apply a layer of photoresist material
+4. Expose the photoresist to a precise negative, which hardens the exposed photoresist
+5. Wash away unhardened photoresist
+6. Etch away uncovered substrate
+7. Strip hardened photoresist
 
-
+## Logic Gates
 
 
 
