@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
+                "file": "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 3.3"
+              "title": "Arch TB1 Summary"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Arch 2.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,20 +277,20 @@
       "task-board:Open task board": false
     }
   },
-  "active": "a5e77d450a5dd43c",
+  "active": "ec36384478afac54",
   "lastOpenFiles": [
-    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
-    "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.3.md",
-    "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md",
-    "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md",
     "Lecture Notes/Live/COMS10015/Week 1/Arch 1.2.md",
+    "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md",
+    "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md",
+    "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.3.md",
+    "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md",
     "Attachments/Screenshot 2026-09-24 at 9.13.26 PM.png",
     "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.2.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md",
     "Untitled.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 1",
     "Lecture Notes/Live/COMS10015/Week 1/Arch 1.3.md",
-    "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md",
     "Lecture Notes/Live/COMS10015/Week 1",
     "Functional 1.2.md",
     "Templates/Lecture Notes.md",
