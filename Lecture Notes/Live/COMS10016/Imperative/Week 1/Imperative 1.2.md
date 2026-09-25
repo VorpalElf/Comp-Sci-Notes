@@ -15,10 +15,21 @@ int length;
 scanf("%d", &length);
 ```
 - %d: Set type as integer
-- &: Allocate data to address of variable lengthun
+- &: Allocate data to address of variable length
+
 ![[Screenshot 2026-08-31 at 6.51.58 PM.png]]
+- Type matters due to different sizes (i.e. memory allocation)
+- 
+## Memory
 
-
+```C
+int main(void) {
+	signed char a = 100;
+	printf("A is %d\n", a);
+	printf("The address of a is: %p\n", &a);
+}
+```
+- %p: Pointer address
 
 ---
 #Imperative
