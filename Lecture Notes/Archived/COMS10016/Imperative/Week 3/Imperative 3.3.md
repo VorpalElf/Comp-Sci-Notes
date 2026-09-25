@@ -34,7 +34,12 @@ printf("%hhu, %hhu\n", bytes[0], bytes[1]);
 - Endian-ness causes different output order (255, 0 or 0, 255)
 
 ## Integer Promotion
-
+```C
+signed char a = 64, b = 8, c = 2, result;
+result = (a * b) / c; // promoted result 0x100 truncated to 0
+printf("%hhi\n", result); // 0, since result did not fit char
+```
+- All variables will be promoted to integer in integer expressions
 
 
 
