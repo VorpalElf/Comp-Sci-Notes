@@ -15,7 +15,7 @@ int length;
 scanf("%d", &length);
 ```
 - %d: Set type as integer
-- &: Allocate data to address of variable length
+- &: Allocate data to address of variable lengthun
 ![[Screenshot 2026-08-31 at 6.51.58 PM.png]]
 
 
