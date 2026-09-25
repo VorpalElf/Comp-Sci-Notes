@@ -19,9 +19,6 @@ scanf("%d", &length);
 
 ![[Screenshot 2026-08-31 at 6.51.58 PM.png]]
 - Type matters due to different sizes (i.e. memory allocation)
-- 
-## Memory
-
 ```C
 int main(void) {
 	signed char a = 100;
