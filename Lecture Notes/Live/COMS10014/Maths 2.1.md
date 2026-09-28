@@ -20,23 +20,17 @@ $$=2x$$
 - Propositions as evidence
 - Proof $\approx$ providing evidence
 
-
-|               | Introduction                          | Elimination                                                                         |
-| ------------- | ------------------------------------- | ----------------------------------------------------------------------------------- |
-| Definition    | Constructs information  required      | Extract information based on assumption and prove something else                    |
-| $\Rightarrow$ | Assume $\phi$ and $\psi$ prove $\psi$ | If we have $\phi \Rightarrow \psi$ and we have $\phi$, we may conclude $\psi$       |
-| $\land$       | Prove both $\phi$ and $\psi$          | If we have $\phi \land \psi$, we may conclude $\phi$ and separately conclude $\psi$ |
-| $\lor$        | Prove $\phi$ and/or $\psi$            |                                                                                     |
+|               | Introduction                          | Elimination                                                                            |
+| ------------- | ------------------------------------- | -------------------------------------------------------------------------------------- |
+| Definition    | Constructs information  required      | Extract information based on assumption and prove something else                       |
+| $\Rightarrow$ | Assume $\phi$ and $\psi$ prove $\psi$ | If we have $\phi \Rightarrow \psi$ and we have $\phi$, we may conclude $\psi$          |
+| $\land$       | Prove both $\phi$ and $\psi$          | If we have $\phi \land \psi$, we may conclude $\phi$ and separately conclude $\psi$    |
+| $\lor$        | Prove $\phi$ and/or $\psi$            | Assuming either $\phi$ or $\psi$, we may prove $\rho$                                  |
+| $\neg$        | Assume $\phi$ and derive $\bot$       | If we have both $\phi$ and $\neg \phi$, we may conclude any proposition $\psi$ we like |
+| $\top$        | We can always derive $\top$           |                                                                                        |
+| $\bot$        |                                       | If we have $\bot$, we may conclude any proposition                                     |
+⭐️ LEM: $\phi \equiv \phi \lor \neg \phi$
 💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false
-
-
-
-Introduction:
-- To prove $\phi \Rightarrow \psi$, <mark style="background: #FFB86CA6;">assume</mark> $\phi$ is true, <mark style="background: #ABF7F7A6;">then prove</mark> $\psi$
-- Use facts that we already have
-<mark style="background: #FFB86CA6;">Assumption</mark>, <mark style="background: #ABF7F7A6;">goal</mark>
-
-
 ## Examples
 
 | Assumptions                         | Goals                                        | Reasoning                                          |
@@ -53,4 +47,4 @@ $$ \therefore q$$
 
 
 ---
-#Maths #Incomplete
+#Maths

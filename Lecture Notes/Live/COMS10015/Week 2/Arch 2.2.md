@@ -6,7 +6,10 @@ Course Name:
   - COMS10015
 Lecture Name: Integer Representation
 ---
-## Introduction
+## Binary Addition
+
+![[Screenshot 2026-09-28 at 2.29.31 PM.png]]
+
 ```Python
 # Assume little endian
 def add_binary(x, y, n, b, ci):
@@ -25,6 +28,8 @@ def add_binary(x, y, n, b, ci):
 	return r, co
 ```
 
+
+## Overflow
 ![[Screenshot 2026-09-28 at 1.48.37 PM.png]]
 
 ---
