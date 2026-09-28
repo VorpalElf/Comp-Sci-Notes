@@ -17,3 +17,6 @@
 | Equivalence   | $x ≡ y ≡ (x ⇒ y) ∧ (y ⇒ x)$                                | Two-way                                   |
 | Implication   | $x ⇒ y ≡ ¬x ∨ y$                                           | one-way                                   |
 | Involution    | $¬¬x ≡ x$                                                  |                                           |
+
+---
+#Summary #Architecture

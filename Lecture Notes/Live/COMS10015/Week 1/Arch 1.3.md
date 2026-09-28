@@ -25,4 +25,4 @@ Lecture Name:
 
 
 ---
-#Boolean 
+#Boolean #Architecture

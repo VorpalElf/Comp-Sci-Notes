@@ -52,4 +52,4 @@ Proposition is a statement where
 
 
 ---
-#Binary  #Boolean 
+#Boolean #Architecture
