@@ -25,7 +25,7 @@ def add_binary(x, y, n, b, ci):
 	return r, co
 ```
 
-
+![[Screenshot 2026-09-28 at 1.48.37 PM.png]]
 
 ---
-#Binary #Architecture
+#Binary #Architecture #Incomplete
