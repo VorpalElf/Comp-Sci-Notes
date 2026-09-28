@@ -30,7 +30,21 @@ Big: $11101011$
 - $\sum_{i=0}^{n-1} x̂_i \cdot b^i$
 ⚠️ If $b > 10$, use letters to represent values > 9
 
+### Unsigned Binary
+- Left Shift: Multiplication by $b^y$ (Notated by $<<$)
+- Right Shift: Division $b^y$ (Notated by $>>$)
 
+| Aim                    | Operation                                |
+| ---------------------- | ---------------------------------------- |
+| Set bits               | $x \vee (1 \ll i)$ or $x \vee (0 \ll i)$ |
+| Extract Bits           | $(x \gg i) \land 1$                      |
+| Extract m-bit sub-word | $(x \gg i) \land ((1 \ll m) -1)$         |
+
+### Signed Binary
+| Name             | Description                        | Formula                                                               | Example                           |
+| ---------------- | ---------------------------------- | --------------------------------------------------------------------- | --------------------------------- |
+| Sign-Magnitude   | First bit: Sign<br>Rest: Positive  | $(-1)^{\hat x_{n-1}} \cdot \sum^{n-2}_{i=0}{\hat x_i \cdot 2^i}$      | $1111 1011_{(2)}$ = $-123_{(10)}$ |
+| Two's Complement | First bit: Sign<br>Rest: -256+.... | $\hat x_{n-1} \cdot -2^{n-1} + \sum^{n-2}_{i=0} {\hat x_i \cdot 2^i}$ | $1000 0101_{(2)}$ = $-123_{(10)}$ |
 
 
 
