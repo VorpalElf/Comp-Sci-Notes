@@ -20,9 +20,11 @@ $$=2x$$
 - Propositions as evidence
 - Proof $\approx$ providing evidence
 
-|            | Introduction | Elimination |
-| ---------- | ------------ | ----------- |
-| Definition |              |             |
+
+|               | Introduction                                                            | Elimination                                                      |
+| ------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Definition    | Constructs information  required                                        | Extract information based on assumption and prove something else |
+| $\Rightarrow$ | To prove $\phi \Rightarrow \psi$, assume $\phi$ and $\psi$ prove $\psi$ |                                                                  |
 
 Introduction:
 - To prove $\phi \Rightarrow \psi$, <mark style="background: #FFB86CA6;">assume</mark> $\phi$ is true, <mark style="background: #ABF7F7A6;">then prove</mark> $\psi$
@@ -41,6 +43,8 @@ Introduction:
 Conclusion
 $$\because p \Rightarrow p$$
 $$ \therefore q$$
+
+
 
 
 ---
