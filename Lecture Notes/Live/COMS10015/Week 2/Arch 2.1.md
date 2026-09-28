@@ -7,7 +7,7 @@ Course Name:
 Lecture Name:
 ---
 ## Introduction
-$\hat X \rightarrow X$, where $\hat X$ is the representation of X, and $X$ is the value
+$\hat X \mapsto X$, where $\hat X$ is the representation of X, and $X$ is the value
 
 ## Endianness
 - Little Endian: Smaller value first

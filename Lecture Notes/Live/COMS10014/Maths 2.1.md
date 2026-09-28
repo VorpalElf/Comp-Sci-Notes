@@ -21,10 +21,15 @@ $$=2x$$
 - Proof $\approx$ providing evidence
 
 
-|               | Introduction                                                            | Elimination                                                      |
-| ------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Definition    | Constructs information  required                                        | Extract information based on assumption and prove something else |
-| $\Rightarrow$ | To prove $\phi \Rightarrow \psi$, assume $\phi$ and $\psi$ prove $\psi$ |                                                                  |
+|               | Introduction                          | Elimination                                                                         |
+| ------------- | ------------------------------------- | ----------------------------------------------------------------------------------- |
+| Definition    | Constructs information  required      | Extract information based on assumption and prove something else                    |
+| $\Rightarrow$ | Assume $\phi$ and $\psi$ prove $\psi$ | If we have $\phi \Rightarrow \psi$ and we have $\phi$, we may conclude $\psi$       |
+| $\land$       | Prove both $\phi$ and $\psi$          | If we have $\phi \land \psi$, we may conclude $\phi$ and separately conclude $\psi$ |
+| $\lor$        | Prove $\phi$ and/or $\psi$            |                                                                                     |
+💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false
+
+
 
 Introduction:
 - To prove $\phi \Rightarrow \psi$, <mark style="background: #FFB86CA6;">assume</mark> $\phi$ is true, <mark style="background: #ABF7F7A6;">then prove</mark> $\psi$
@@ -48,4 +53,4 @@ $$ \therefore q$$
 
 
 ---
-#Maths
+#Maths #Incomplete
