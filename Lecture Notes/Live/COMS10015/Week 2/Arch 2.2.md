@@ -30,7 +30,11 @@ def add_binary(x, y, n, b, ci):
 
 
 ## Overflow
+- Extra bit produced after arithmetic operation
+- Bit unable to fit in the register
+- Actions: Truncate/clamp the result
 ![[Screenshot 2026-09-28 at 1.48.37 PM.png]]
+Figure 1: Actions taken based on signed number arithmetic operations
 
 ---
-#Binary #Architecture #Incomplete
+#Binary #Architecture
