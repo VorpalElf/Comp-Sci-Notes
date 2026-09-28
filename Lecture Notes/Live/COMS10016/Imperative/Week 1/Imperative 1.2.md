@@ -2,6 +2,7 @@
 Date & Time: 21-09-2026 15:33
 Lecturer:
   - Tilo Burghardt
+  - Otto Brookes
 Course Name:
   - COMS10016
 Lecture Name: Types, Variables & Scopes

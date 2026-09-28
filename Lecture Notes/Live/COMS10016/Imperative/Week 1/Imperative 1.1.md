@@ -2,6 +2,8 @@
 Date & Time: 21-09-2026 10:05
 Lecturer:
   - Tilo Burghardt
+  - Otto Brookes
+  - Oliver Ray
 Course Name:
   - COMS10016
 Lecture Name: Introduction
