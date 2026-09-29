@@ -94,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,7 +264,7 @@
       "task-board:Open task board": false
     }
   },
-  "active": "077131d3f22b5306",
+  "active": "2145db0fa14992bb",
   "lastOpenFiles": [
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.3.md",
