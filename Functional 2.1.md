@@ -57,8 +57,6 @@ letEg x =
 		xSquared = x * x
 	in result
 
-  
-
 whereEg x = result
 	where
 		result = xCubed + xSquared
