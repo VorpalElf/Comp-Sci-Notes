@@ -68,3 +68,4 @@ whereEg x = result
 
 
 ---
+#Functional
