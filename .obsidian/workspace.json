@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Live/COMS10014/Maths 2.1.md",
+                "file": "Lecture Notes/Live/COMS10014/Week 2/Maths 2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths 2.1"
+              "title": "Maths 2.2"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Maths A Summary"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,14 +277,16 @@
       "task-board:Open task board": false
     }
   },
-  "active": "ef6a1049f5d1c7ad",
+  "active": "44bcd0f05ce346c8",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10014/Maths 2.1.md",
+    "Lecture Notes/Live/COMS10014/Week 2/Maths 2.1.md",
+    "Lecture Notes/Live/COMS10014/Week 2",
+    "Lecture Notes/Live/COMS10014/Week 2/Maths 2.2.md",
     "Lecture Notes/Live/COMS10014/Maths A Summary.md",
+    "Attachments/Recording 20260930114803.m4a",
     "Attachments/Pasted image 20260930113243.png",
     "Lecture Notes/Live/COMS10014/Week 1/Maths 1.1.md",
     "Lecture Notes/Live/COMS10014/Week 1/Maths 1.2.md",
-    "Maths 2.2.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 2",
@@ -323,8 +324,6 @@
     "Attachments/Screenshot 2026-09-23 at 10.28.48 AM.png",
     "Lecture Notes/Live/COMS10016/Functional",
     "Lecture Notes/Live/COMS10012",
-    "Lecture Notes/Live/COMS10014",
-    "Lecture Notes/Live/COMS10016/Imperative/Week 1",
     "Untitled.canvas"
   ]
 }

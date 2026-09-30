@@ -12,3 +12,4 @@ Lecture Name: Natural Deduction (2)
 
 
 ---
+#Incomplete

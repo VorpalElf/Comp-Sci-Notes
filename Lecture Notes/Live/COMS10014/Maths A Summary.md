@@ -42,7 +42,7 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 
 |               | Introduction                          | Elimination                                                                            |
 | ------------- | ------------------------------------- | -------------------------------------------------------------------------------------- |
-| Definition    | Constructs information  required      | Extract information based on assumption and prove something else                       |
+| Definition    | Constructs information required       | Extract information based on assumption and prove something else                       |
 | $\Rightarrow$ | Assume $\phi$ and $\psi$ prove $\psi$ | If we have $\phi \Rightarrow \psi$ and we have $\phi$, we may conclude $\psi$          |
 | $\land$       | Prove both $\phi$ and $\psi$          | If we have $\phi \land \psi$, we may conclude $\phi$ and separately conclude $\psi$    |
 | $\lor$        | Prove $\phi$ and/or $\psi$            | Assuming either $\phi$ or $\psi$, we may prove $\rho$                                  |
@@ -50,5 +50,5 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 | $\top$        | We can always derive $\top$           |                                                                                        |
 | $\bot$        |                                       | If we have $\bot$, we may conclude any proposition                                     |
 |               |                                       |                                                                                        |
-⭐️ LEM: $\phi \equiv \phi \lor \neg \phi$
+⭐️ LEM: $\phi \lor \neg \phi \equiv \top$
 💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false

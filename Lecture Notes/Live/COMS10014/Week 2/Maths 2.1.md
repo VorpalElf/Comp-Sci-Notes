@@ -30,7 +30,7 @@ $$=2x$$
 | $\top$        | We can always derive $\top$           |                                                                                        |
 | $\bot$        |                                       | If we have $\bot$, we may conclude any proposition                                     |
 |               |                                       |                                                                                        |
-⭐️ LEM: $\phi \equiv \phi \lor \neg \phi$
+⭐️ LEM: $\phi \lor \neg \phi \equiv \top$
 💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false
 
 ## Examples
