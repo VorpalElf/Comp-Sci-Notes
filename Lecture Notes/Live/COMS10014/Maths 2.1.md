@@ -29,8 +29,10 @@ $$=2x$$
 | $\neg$        | Assume $\phi$ and derive $\bot$       | If we have both $\phi$ and $\neg \phi$, we may conclude any proposition $\psi$ we like |
 | $\top$        | We can always derive $\top$           |                                                                                        |
 | $\bot$        |                                       | If we have $\bot$, we may conclude any proposition                                     |
+|               |                                       |                                                                                        |
 ⭐️ LEM: $\phi \equiv \phi \lor \neg \phi$
 💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false
+
 ## Examples
 
 | Assumptions                         | Goals                                        | Reasoning                                          |

@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fec0c1a9fb6f7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/Live/COMS10015/Week 2/Arch 2.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch 2.2"
-            }
-          },
-          {
-            "id": "54ad0cba8251adad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/Live/COMS10014/Maths 2.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maths 2.1"
-            }
-          },
-          {
             "id": "44bcd0f05ce346c8",
             "type": "leaf",
             "state": {
@@ -47,6 +19,34 @@
               },
               "icon": "lucide-file",
               "title": "Maths 2.1"
+            }
+          },
+          {
+            "id": "7b086fe18569ac69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Live/COMS10014/Week 1/Maths 1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maths 1.1"
+            }
+          },
+          {
+            "id": "ef6a1049f5d1c7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Live/COMS10014/Maths A Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maths A Summary"
             }
           }
         ],
@@ -278,15 +278,17 @@
       "task-board:Open task board": false
     }
   },
-  "active": "44bcd0f05ce346c8",
+  "active": "ef6a1049f5d1c7ad",
   "lastOpenFiles": [
+    "Lecture Notes/Live/COMS10014/Maths 2.1.md",
+    "Lecture Notes/Live/COMS10014/Maths A Summary.md",
+    "Attachments/Pasted image 20260930113243.png",
+    "Lecture Notes/Live/COMS10014/Week 1/Maths 1.1.md",
+    "Lecture Notes/Live/COMS10014/Week 1/Maths 1.2.md",
     "Maths 2.2.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 2",
-    "Lecture Notes/Live/COMS10014/Maths 2.1.md",
-    "Lecture Notes/Live/COMS10014/Week 1/Maths 1.1.md",
-    "Lecture Notes/Live/COMS10014/Week 1/Maths 1.2.md",
     "Software 2.md",
     "Lecture Notes/Live/COMS10012/Software 1.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
@@ -314,14 +316,11 @@
     "Attachments/Screenshot 2026-09-24 at 9.13.26 PM.png",
     "Lecture Notes/Live/COMS10016/Functional/Week 1",
     "Lecture Notes/Live/COMS10015/Week 1",
-    "Functional 1.2.md",
-    "Templates/Lecture Notes.md",
     "Attachments/cmos.gif",
     "Attachments/CMOS_4017_Outputs_Animate_v1.01.gif",
     "Attachments/Screenshot 2026-09-23 at 10.35.22 AM.png",
     "Attachments/Screenshot 2026-09-23 at 10.35.06 AM.png",
     "Attachments/Screenshot 2026-09-23 at 10.28.48 AM.png",
-    "Attachments/Screenshot 2026-09-23 at 10.28.06 AM.png",
     "Lecture Notes/Live/COMS10016/Functional",
     "Lecture Notes/Live/COMS10012",
     "Lecture Notes/Live/COMS10014",
