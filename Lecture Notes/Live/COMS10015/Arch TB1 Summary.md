@@ -18,5 +18,30 @@
 | Implication   | $x ⇒ y ≡ ¬x ∨ y$                                           | one-way                                   |
 | Involution    | $¬¬x ≡ x$                                                  |                                           |
 
+## Binary Arithmetic
+### Endianness
+- Little Endian: Smaller value first
+- Big Endian: Big value first
+- Least Significant Bit (LSB): Smallest value
+- Most Significant Bit (MSB): Largest value
+### Hamming
+- Hamming Weight: No. of bits = 1
+- $\sum_{i=0}^{n-1} X_i$
+- Hamming Distance: number of bits in X that diﬀer from the corresponding bit in Y
+- $\sum_{i=0}^{n-1} X_i \oplus Y_i$
+
+| Aim                    | Operation                                |
+| ---------------------- | ---------------------------------------- |
+| Set bits               | $x \vee (1 \ll i)$ or $x \vee (0 \ll i)$ |
+| Extract Bits           | $(x \gg i) \land 1$                      |
+| Extract m-bit sub-word | $(x \gg i) \land ((1 \ll m) -1)$         |
+### Overflow
+- Extra bit produced after arithmetic operation
+- Bit unable to fit in the register
+- Actions: Truncate/clamp the result
+
+## Transistors & Logic Gates
+
+
 ---
 #Summary #Architecture

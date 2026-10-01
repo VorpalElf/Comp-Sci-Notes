@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-10-01T11:07:59",
+    "Modified_at": "2026-10-01T11:40:01",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -11,14 +11,14 @@
         "Learning Diary/30-08-2026.md": [],
         "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md": [],
         "Lecture Notes/Live/COMS10015/Week 1/Arch 1.2.md": [],
-        "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.1.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 2/Imperative 2.1.md": [],
         "Lecture Notes/Live/COMS10015/Week 2/Arch 2.1.md": [],
         "Lecture Notes/Live/COMS10014/Week 1/Maths 1.2.md": [],
         "Software 2.md": [],
-        "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md": [],
+        "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -57,13 +57,13 @@
         "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.2.md": [],
         "Lecture Notes/Archived/COMS10015/Week 2/Arch 2.1.md": [],
         "Lecture Notes/Live/COMS10015/Week 1/Arch 1.2.md": [],
-        "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.1.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 1/Imperative 1.2.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 2/Imperative 2.1.md": [],
         "Lecture Notes/Live/COMS10015/Week 2/Arch 2.1.md": [],
         "Lecture Notes/Live/COMS10014/Week 1/Maths 1.2.md": [],
         "Software 2.md": [],
-        "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md": [],
+        "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md": []
     }
 }
