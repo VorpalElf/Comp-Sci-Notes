@@ -12,7 +12,10 @@ Lecture Name: Transistors & Logic Gates (1)
 - $n$-th shell can accommodate up to $2n^2$ electrons
 - An unfilled slot is called a hole
 
-
+### Why Silicon?
+1. Abundant
+2. More electrons configuration with donor materials
+3. Inert (i.e. stable)
 
 
 
