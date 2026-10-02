@@ -13,3 +13,4 @@ Lecture Name: Types
 
 
 ---
+#Functional #Incomplete
