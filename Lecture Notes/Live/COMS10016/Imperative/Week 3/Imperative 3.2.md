@@ -51,7 +51,5 @@ int binarySearch(char c, int n, char a[n]) {
 - E.g. $an+b \implies n$
 
 
-
-
-
 ---
+#Imperative

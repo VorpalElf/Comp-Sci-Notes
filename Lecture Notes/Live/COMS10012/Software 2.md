@@ -24,7 +24,7 @@ ls | grep .md
 | -------- | -------------------------------------------- | ------- |
 | `>`      | Takes output, new/overwrite file in the path |         |
 | `>>`     | Appends output to the file                   |         |
-|          |                                              |         |
+| \|       | Execute when the previous one is complete    |         |
 ### Splices
 ```Bash
 $ for f in $(find . -name \*.md);
@@ -52,4 +52,3 @@ cat ${x}
 
 ---
 #Incomplete
-Add pipe operators table
