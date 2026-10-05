@@ -46,3 +46,5 @@ cat ${x}
 ```
 
 ---
+#Incomplete
+Add pipe operators table
