@@ -13,6 +13,19 @@ Lecture Name: System Admin
 
 ![[Pasted image 20260922114934.png]]
 
+## OpenSSH
+- Secure Shell
+- Runs on port 22
+- 
+
+### File Transfer
+```bash
+# Send
+scp FILEPATH username@dest
+# Receive
+scp username@source:FILEPATH username@dest:DESTPATH
+```
+
 
 
 ---

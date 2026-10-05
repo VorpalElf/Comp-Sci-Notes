@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "triggerBehavior": "auto-on-edit",
+  "confidenceThreshold": 70,
+  "detectorConfigurations": {
+    "vscode-ml": {
+      "enabled": true,
+      "confidenceThreshold": 10,
+      "order": 0,
+      "config": {}
+    },
+    "highlight-js": {
+      "enabled": true,
+      "confidenceThreshold": 70,
+      "order": 1,
+      "config": {}
+    },
+    "pattern-matching": {
+      "enabled": true,
+      "confidenceThreshold": 70,
+      "order": 2,
+      "config": {
+        "enabledLanguages": [
+          "javascript",
+          "typescript",
+          "python",
+          "java",
+          "cpp",
+          "bash"
+        ]
+      }
+    }
+  },
+  "enableHistory": true,
+  "maxHistoryEntries": 100,
+  "showNotifications": true,
+  "enabledPatternLanguages": [
+    "javascript",
+    "typescript",
+    "python",
+    "java",
+    "cpp",
+    "bash"
+  ],
+  "processingScope": "current-note",
+  "historyData": [
+    {
+      "fileName": "Software 1.md",
+      "filePath": "Lecture Notes/Live/COMS10012/Software 1.md",
+      "codeBlock": {
+        "content": "Bash\n# Send\nscp FILE username@dest\n# Receive\nscp username@source:FILEPATH username@dest:DESTPATH",
+        "startLine": 21,
+        "endLine": 26,
+        "hasLanguage": false
+      },
+      "detectedLanguage": "bash",
+      "confidence": 14,
+      "method": "vscode-ml",
+      "applied": true,
+      "id": "1791233846579-ngt3fbq3t",
+      "timestamp": 1791233846579
+    }
+  ],
+  "uiState": {
+    "expandedDetectorCards": {}
+  }
+}
