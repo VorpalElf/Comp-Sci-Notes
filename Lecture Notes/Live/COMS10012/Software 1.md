@@ -16,15 +16,47 @@ Lecture Name: System Admin
 ## OpenSSH
 - Secure Shell
 - Runs on port 22
-- 
+- Remotely login to another machine
+- `-i FILENAME` for identity file
+### SSH Keys
+- Private Key: `id_CIPHER`
+- Public Key: `id_CIPHER.pub`
+- Generate `ssh-keygen -t ed25519`, -t: Type of crypt algorithm
+- `known_hosts`: where SSH stores public keys computers you've already connected to
+- `authorized_keys`: Server side, only accept public key if in the file
+### SSH Config
+In `~/.ssh/config`
+```
+Host lab
 
-### File Transfer
+  HostName rd-mvb-linuxlab.bristol.ac.uk
+
+  User USERNAME
+  
+  # Optional
+  IdentityFile FILENAME 
+```
+## File Transfer
 ```bash
 # Send
 scp FILEPATH username@dest
 # Receive
 scp username@source:FILEPATH username@dest:DESTPATH
 ```
+
+## Linux File System
+Binary: `bin/`
+Bootloader: `boot/`
+Device files: `/dev/`
+Config: `etc/`
+Programs for root: `sbin/`
+Temporary files: `/tmp`
+Files being served: `srv/` or `var/`
+Runtime: `run/`
+User: `/usr`
+User installed programs: `/usr/local`
+System-wide config: `/opt`
+Dynamic libraries: `/lib`
 
 
 
