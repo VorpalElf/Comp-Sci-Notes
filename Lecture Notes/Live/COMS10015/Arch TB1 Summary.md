@@ -41,6 +41,23 @@
 - Actions: Truncate/clamp the result
 
 ## Transistors & Logic Gates
+⭐️ P-Type: extra holes (i.e. positive)
+⭐️ N-Type: extra electrons (i.e. negative)
+![[Screenshot 2026-09-23 at 10.28.06 AM.png|280]]
+- Charge flow between channel
+- Channel width controlled by p.d.
+- MOSFET have induced channels
+
+|                | P-Type MOSFET                                                           | N-Type MOSFET                                                               |
+| -------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Channel        | <mark style="background: #BBFABBA6;">P-Type</mark>                      | <mark style="background: #FF5582A6;">N-Type</mark>                          |
+| Body           | <mark style="background: #FF5582A6;">N-Type</mark>                      | <mark style="background: #BBFABBA6;">P-Type</mark>                          |
+| Remove PD -> ? | Widens channel -> <mark style="background: #FFB86CA6;">connected</mark> | Narrows channel -> <mark style="background: #D2B3FFA6;">disconnected</mark> |
+| Diagram        | ![[Screenshot 2026-09-23 at 10.35.22 AM.png\|152]]                      | ![[Screenshot 2026-09-23 at 10.35.06 AM.png\|158]]                          |
+
+## Combinatorial Logic
+
+
 
 
 ---
