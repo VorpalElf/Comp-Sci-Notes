@@ -20,6 +20,11 @@ Arguments: / (actually empty)
 ls | grep .md
 ```
 
+| Operator | Purpose                                      | Example |
+| -------- | -------------------------------------------- | ------- |
+| `>`      | Takes output, new/overwrite file in the path |         |
+| `>>`     | Appends output to the file                   |         |
+|          |                                              |         |
 ### Splices
 ```Bash
 $ for f in $(find . -name \*.md);
