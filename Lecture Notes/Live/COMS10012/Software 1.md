@@ -1,6 +1,7 @@
 ---
 Date & Time: 22-09-2026 11:11
 Lecturer:
+  - Gretchen Hallett
 Course Name:
   - COMS10012
 Lecture Name: System Admin
@@ -50,7 +51,7 @@ Bootloader: `boot/`
 Device files: `/dev/`
 Config: `etc/`
 Programs for root: `sbin/`
-Temporary files: `/tmp`
+Temporary files, lives in RAM: `/tmp`
 Files being served: `srv/` or `var/`
 Runtime: `run/`
 User: `/usr`
