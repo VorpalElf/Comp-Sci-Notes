@@ -28,19 +28,22 @@ foo x = case x of
 - x: arguments
 - _ : Default/else
 
+#### Syntactic Sugar
 ```Haskell
 fooSugar 1 = "bish"
 fooSugar 2 = "bash"
 fooSugar 3 = "bool"
 ```
 
+### If
 ```Haskell
 -- If
 egIfSugar x = if x > 10
 then "Bigger than 10"
 else "10 or less"
 ```
-``
+
+### Guard
 ```Haskell
 -- Guard
 egGuardSugar x
