@@ -45,6 +45,22 @@
   "processingScope": "current-note",
   "historyData": [
     {
+      "fileName": "Functional 3.1.md",
+      "filePath": "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.1.md",
+      "codeBlock": {
+        "content": "head :: [Int] -> Int\nhead xs = case xs of\nx : xs' -> x",
+        "startLine": 17,
+        "endLine": 21,
+        "hasLanguage": false
+      },
+      "detectedLanguage": "haskell",
+      "confidence": 15,
+      "method": "vscode-ml",
+      "applied": true,
+      "id": "1791299884546-ky0tob26e",
+      "timestamp": 1791299884546
+    },
+    {
       "fileName": "Software 1.md",
       "filePath": "Lecture Notes/Live/COMS10012/Software 1.md",
       "codeBlock": {

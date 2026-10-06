@@ -13,6 +13,14 @@ egList :: [ Int ]
 egList = []
 ```
 
+## Operations
+```haskell
+head :: [Int] -> Int
+head xs = case xs of
+x : xs' -> x
+```
+⭐️ Prove by Induction
+💡 Base case, then assume other cases
 
 
 ---
