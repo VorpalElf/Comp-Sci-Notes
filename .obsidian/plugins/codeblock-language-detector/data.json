@@ -45,6 +45,22 @@
   "processingScope": "current-note",
   "historyData": [
     {
+      "fileName": "Functional 3.2.md",
+      "filePath": "Functional 3.2.md",
+      "codeBlock": {
+        "content": "Haskell\ndata Value\n= A | One | Two | Three | Four | Five\n| Six | Seven | Eight | Nine | Ten\n| J | Q | K\n\n  \n\ndata Card = MkCard SuitsType Value",
+        "startLine": 30,
+        "endLine": 39,
+        "hasLanguage": false
+      },
+      "detectedLanguage": "haskell",
+      "confidence": 17,
+      "method": "vscode-ml",
+      "applied": true,
+      "id": "1791470741164-a2euws9pt",
+      "timestamp": 1791470741164
+    },
+    {
       "fileName": "Functional 3.1.md",
       "filePath": "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.1.md",
       "codeBlock": {

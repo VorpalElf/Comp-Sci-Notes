@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-10-08T15:16:46",
+    "Modified_at": "2026-10-08T15:51:18",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -23,7 +23,7 @@
         "Lecture Notes/Live/COMS10012/Software 3.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md": [],
         "Lecture Notes/Live/COMS10015/Week 3/Arch 3.3.md": [],
-        "Functional 3.2.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -74,6 +74,6 @@
         "Lecture Notes/Live/COMS10012/Software 3.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md": [],
         "Lecture Notes/Live/COMS10015/Week 3/Arch 3.3.md": [],
-        "Functional 3.2.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": []
     }
 }
