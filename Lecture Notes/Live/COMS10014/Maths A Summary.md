@@ -13,7 +13,6 @@
 5. Implication
 E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 💡 Treat AND as $\times$, OR as $+$
-
 ### Laws of Boolean Algebra
 | Name        | Axiom 1      | Axiom 2      |
 | ----------- | ------------ | ------------ |
@@ -52,3 +51,64 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 |               |                                       |                                                                                        |
 ⭐️ LEM: $\phi \lor \neg \phi \equiv \top$
 💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false
+
+## Week 3: Predicates & Qualifiers
+### Predicates
+- Statements that contain variables
+- Can have any number of variables
+- E.g. The temperature is greater than 18˚C
+### Quantifiers
+- A way to create a proposition from a propositional function
+- Domain: The set of values that a variable can take
+### Universal
+ - $\forall$, "for all" elements
+ - $\forall x \space P(x)$ is true, if all elements are true
+ - $\forall x \space P(x) \equiv P(x_1) \land P(x_2) \land \space ...$
+### Existential
+- $\exists$, one or more elements in the domain
+- True if any values of $x$ is true
+- The true $x_n$ is called a witness
+- $\forall x \space P(x) \equiv P(x_1) \lor P(x_2) \lor \space ...$
+### Empty Domains
+- $\forall x \space P(x)$ is vacuously true, because no elements are false
+- $\exists x \space P(x)$ is trivially false, because no elements are true
+### De Morgan's Laws for Quantifiers
+$\neg \forall x \space P(x) \equiv \exists x \space \neg P(x)$
+$\neg \exists x \space Q(x) \equiv \forall x \space \neg Q(x)$
+- Move negations, change operators
+## Proofs
+### Prove Strategies
+| Strategy         | Goal              | Approach                         |
+| ---------------- | ----------------- | -------------------------------- |
+| Direct           | $P \Rightarrow Q$ | Assume $P$, derive $Q$           |
+| Indirect         | $P \Rightarrow Q$ | Assume $\neg Q$, derive $\neg P$ |
+| Contradiction    | Prove P           | Assume $\neg P$, derive $\bot$   |
+| Case Distinction | Prove P           | Split into exhaustive cases      |
+### Informal Proofs
+| Informal Strategy                 | Key rule(s)                     | How                                       |
+| --------------------------------- | ------------------------------- | ----------------------------------------- |
+| Direct proof of $P \Rightarrow Q$ | $\Rightarrow I$                 | Assume $P$, derive $Q$                    |
+| Applying $P \Rightarrow Q$ to $P$ | $\Rightarrow E$                 | $Q$ (modus ponens)                        |
+| Indirect proof (Contrapositive)   | $\Rightarrow I, \neg I, \neg E$ | Prove $\neg Q \Rightarrow \neg P$ instead |
+| Proof by contradiction            | LEM, $\neg E$                   | Split $P \lor \neg P$, rule out $\neg P$  |
+| Case Distinction                  | $\lor E$                        | Prove goal in each case                   |
+
+### Quantifiers Proof
+### 1. Witness Strategy
+- Applies for $\exists x$
+- Show example of any elements in set
+### 2. Arbitrary Element Strategy
+- For $\forall x$
+1. Assume $x$ is arbitrary
+2. Proof it with any proof strategies
+3. Conclude, "since $x$ is arbitrary, *CLAIM$"
+
+### 3. Natural Induction
+|           | Introduction                                                                                                                                                                                                      | Elimination                                                                                                  |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| $\forall$ | Let $x$ be an arbitrary element of $D$<br>Make no further assumptions of $x$ beyond $D$<br><br>🚨 $x$ must not be a free variable<br>which ensures x is truly arbitrary and not secretly fixed by some hypothesis | If we have $\forall x$, we can conclude $P(t)$ where $t \in D$                                               |
+| $\exists$ | If we have $P(t)$ where $t \in D$, we may conclude & take $t$ as witness                                                                                                                                          | If we have $\exists x$ and from the assumption $P(x_0)$, where $x_0$ is fresh, we may prove and conclude $Q$ |
+
+
+---
+#Summary

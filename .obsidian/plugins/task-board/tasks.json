@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-10-08T15:51:18",
+    "Modified_at": "2026-10-08T17:24:59",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -23,7 +23,11 @@
         "Lecture Notes/Live/COMS10012/Software 3.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md": [],
         "Lecture Notes/Live/COMS10015/Week 3/Arch 3.3.md": [],
-        "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": [],
+        "Lecture Notes/Live/COMS10014/Week 3/Maths 3.2.md": [],
+        "Lecture Notes/Live/COMS10014/Week 3/Maths 3.1.md": [],
+        "Lecture Notes/Live/COMS10014/Maths A Summary.md": [],
+        "Lecture Notes/Live/COMS10014/Week 2/Maths 2.1 & 2.2.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -74,6 +78,10 @@
         "Lecture Notes/Live/COMS10012/Software 3.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md": [],
         "Lecture Notes/Live/COMS10015/Week 3/Arch 3.3.md": [],
-        "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": [],
+        "Lecture Notes/Live/COMS10014/Week 3/Maths 3.2.md": [],
+        "Lecture Notes/Live/COMS10014/Week 3/Maths 3.1.md": [],
+        "Lecture Notes/Live/COMS10014/Maths A Summary.md": [],
+        "Lecture Notes/Live/COMS10014/Week 2/Maths 2.1 & 2.2.md": []
     }
 }
