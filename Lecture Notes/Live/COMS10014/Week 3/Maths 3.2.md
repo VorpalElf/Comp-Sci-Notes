@@ -30,7 +30,21 @@ Lecture Name: Predicate Logic and Proofs
 | Proof by contradiction            | LEM, $\neg E$                   | Split $P \lor \neg P$, rule out $\neg P$  |
 | Case Distinction                  | $\lor E$                        | Prove goal in each case                   |
 
+## Quantifiers Proof
+### 1. Witness Strategy
+- Applies for $\exists x$
+- Show example of any elements in set
+### 2. Arbitrary Element Strategy
+- For $\forall x$
+1. Assume $x$ is arbitrary
+2. Proof it with any proof strategies
+3. Conclude, "since $x$ is arbitrary, *CLAIM$"
 
+### 3. Natural Induction
+|           | Introduction                                                                                                                                                                                                      | Elimination                                                                                                  |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| $\forall$ | Let $x$ be an arbitrary element of $D$<br>Make no further assumptions of $x$ beyond $D$<br><br>🚨 $x$ must not be a free variable<br>which ensures x is truly arbitrary and not secretly fixed by some hypothesis | If we have $\forall x$, we can conclude $P(t)$ where $t \in D$                                               |
+| $\exists$ | If we have $P(t)$ where $t \in D$, we may conclude & take $t$ as witness                                                                                                                                          | If we have $\exists x$ and from the assumption $P(x_0)$, where $x_0$ is fresh, we may prove and conclude $Q$ |
 
 
 ---
