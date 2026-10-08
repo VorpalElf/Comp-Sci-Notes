@@ -45,7 +45,8 @@ scp FILEPATH username@dest
 scp username@source:FILEPATH username@dest:DESTPATH
 ```
 
-## Linux File System
+## Linux Admin
+### Linux File System
 Binary: `bin/`
 Bootloader: `boot/`
 Device files: `/dev/`
@@ -59,7 +60,12 @@ User installed programs: `/usr/local`
 System-wide config: `/opt`
 Dynamic libraries: `/lib`
 
-
+### Package Managers
+| Command | Description                                                               |
+| ------- | ------------------------------------------------------------------------- |
+| `nano`  | Basic text editor                                                         |
+| `vim`   |                                                                           |
+| `sudo`  | Run command as root                                                       |
+| `apt`   | Debian Package Manager<br>Flags: `install`, `remove`, `update`, `upgrade` |
 
 ---
-#Incomplete
