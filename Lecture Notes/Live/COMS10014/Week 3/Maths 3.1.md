@@ -8,7 +8,7 @@ Lecture Name: Predicates & Quantifiers
 ---
 ## Introduction
 Atomic Propositions: Statements that are True or False
-
+Propositons connected with $\land, \lor, \neg, \Rightarrow$
 ## Predicates
 - Statements that contain variables
 - Can have any number of variables

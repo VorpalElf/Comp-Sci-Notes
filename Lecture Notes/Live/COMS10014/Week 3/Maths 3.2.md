@@ -14,7 +14,6 @@ Lecture Name: Predicate Logic and Proofs
 	- father(x): a function mapping person x to their father
 	- day(dd, mm, yyyy): Returns day of the week from date
 - Predicates: PL is a set of predicates
-
 ## Prove Strategies
 | Strategy         | Goal              | Approach                         |
 | ---------------- | ----------------- | -------------------------------- |
@@ -35,3 +34,4 @@ Lecture Name: Predicate Logic and Proofs
 
 
 ---
+#Maths
