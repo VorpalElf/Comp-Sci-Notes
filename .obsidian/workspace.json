@@ -49,8 +49,7 @@
               "title": "Imperative 3.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,11 +278,11 @@
       "print:Print note": false
     }
   },
-  "active": "67d3f80f37fb4f45",
+  "active": "236c65a8bcbe2384",
   "lastOpenFiles": [
+    "Lecture Notes/Live/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 3/Imperative 3.2.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
-    "Lecture Notes/Live/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Live/COMS10012/Software 1.md",
     "Lecture Notes/Live/COMS10012/Software Summary.md",
     "Lecture Notes/Live/COMS10012/Software 2.md",

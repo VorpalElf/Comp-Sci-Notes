@@ -43,6 +43,14 @@ Lecture Name: Regular Expressions
 | -v       | Inverted matching             |
 | -R       | Search folder recursively     |
 
+## Sed
+- For filtering & Transforming texts
 
+| Command       | Description                           |
+| ------------- | ------------------------------------ |
+| `a \ text`    | Append `tex                           |
+| `i \ text`    | Insert `te                            |
+| `s/ABCD/EFG Match `ABCD` and replace with `EFGH` and  |
 
 ---
+#Incomplete
