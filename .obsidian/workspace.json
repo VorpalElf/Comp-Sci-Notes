@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Live/COMS10015/Week 3/Arch 3.1.md",
+                "file": "Lecture Notes/Live/COMS10015/Week 3/Arch 3.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch 3.1"
+              "title": "Arch 3.2"
             }
           }
         ]
@@ -246,16 +246,16 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "glossary-linker:Glossary overview": false,
-      "task-board:Open task board": false,
-      "print:Print note": false
+      "print:Print note": false,
+      "task-board:Open task board": false
     }
   },
   "active": "67d3f80f37fb4f45",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10015/Week 2/Arch 2.3.md",
-    "Lecture Notes/Live/COMS10015/Week 3/Arch 3.1.md",
-    "Lecture Notes/Live/COMS10015/Week 3/Arch 3.2.md",
     "Lecture Notes/Live/COMS10015/Week 3/Arch 3.3.md",
+    "Lecture Notes/Live/COMS10015/Week 3/Arch 3.1.md",
+    "Lecture Notes/Live/COMS10015/Week 2/Arch 2.3.md",
+    "Lecture Notes/Live/COMS10015/Week 3/Arch 3.2.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Archived/COMS10016/Imperative/Week 3/Imperative 3.3.md",
     "Lecture Notes/Live/COMS10012/Software 3.md",
