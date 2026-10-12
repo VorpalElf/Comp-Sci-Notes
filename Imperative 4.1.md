@@ -16,6 +16,7 @@ Lecture Name: Pointers (1)
 - `*`: Pointer
 - `&`: Address operator (i.e. pointer point to...)
 - `%p`: Printf type
+- Out of range: **Dangling Pointer**
 
 
 
