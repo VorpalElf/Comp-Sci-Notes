@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -293,10 +293,10 @@
       "task-board:Open task board": false
     }
   },
-  "active": "684dc6719ef04385",
+  "active": "a87186a190655521",
   "lastOpenFiles": [
-    "Imperative 4.1.md",
     "Maths 4.1.md",
+    "Imperative 4.1.md",
     "Lecture Notes/Live/COMS10015/Week 4/Arch 4.1.md",
     "Lecture Notes/Live/COMS10015/Week 4",
     "Attachments/Screenshot 2026-10-12 at 9.12.54 AM.png",
