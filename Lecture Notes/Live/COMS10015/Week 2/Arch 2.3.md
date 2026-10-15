@@ -38,6 +38,7 @@ Lecture Name: Transistors & Logic Gates (1)
 | Body           | <mark style="background: #FF5582A6;">N-Type</mark>                      | <mark style="background: #BBFABBA6;">P-Type</mark>                          |
 | Remove PD -> ? | Widens channel -> <mark style="background: #FFB86CA6;">connected</mark> | Narrows channel -> <mark style="background: #D2B3FFA6;">disconnected</mark> |
 | Diagram        | ![[Screenshot 2026-09-23 at 10.35.22 AM.png\|152]]                      | ![[Screenshot 2026-09-23 at 10.35.06 AM.png\|158]]                          |
+💡P-Type: Flip bits, N-Type: Same
 ### CMOS
 ![[Screenshot 2026-10-01 at 11.38.26 AM.png]]
 - Combination of P-Type & N-Type transistors

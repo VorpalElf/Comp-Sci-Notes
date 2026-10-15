@@ -61,4 +61,4 @@ Let S(x): x is a student, W(x): x works hard, Sleep(x): x sleeps at night
 
 
 ---
-#Maths #Incomplete
+#Maths 

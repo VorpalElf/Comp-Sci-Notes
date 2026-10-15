@@ -4,7 +4,7 @@ Lecturer:
   - Tilo Burghardt
 Course Name:
   - COMS10016
-Lecture Name: Pointers (1)
+Lecture Name: Pointers
 ---
 ## Introduction
 - C access memory as an **array of Bytes**

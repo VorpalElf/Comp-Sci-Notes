@@ -13,7 +13,6 @@ Lecture Name: Transistors & Logic Gates (2)
 - If $V_x \approx V_{ss}$, $x$ connected to 
 ⭐️ List all Inputs -> Calculate Outputs -> Deduce Gate/Expression
 💡 Flow from $V_{dd}$ to $V_{ss}$
-💡 Same pole -> Block
 ![[Screenshot 2026-10-05 at 9.26.30 AM.png]]
 
 ## Physical Limitations
