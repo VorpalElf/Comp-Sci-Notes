@@ -19,12 +19,12 @@ Lecture Name: Git (1)
 | `git commit -m` | Commit all changes                                                   |
 | `git log`       | Show history of commits                                              |
 ## Compare & Restore
-| Command             | Description                                                                                         |
-| ------------------- | --------------------------------------------------------------------------------------------------- |
-| `git diff HASH`     | Show difference compared to previous changes                                                        |
-| `git restore HASH ` | Restore to most recent version <mark style="background: #FFB86CA6;">(Notated as new changes)</mark> |
-| `git checkout HASH` | Return to latest version, but <mark style="background: #FF5582A6;">marked as no changes</mark>      |
-|                     |                                                                                                     |
+| Command             | Description                                          |
+| ------------------- | ---------------------------------------------------- |
+| `git diff HASH`     | Show difference compared to previous changes         |
+| `git restore HASH ` | Restore to latest,                                   |
+| `git checkout HASH` | Return to latest version, but HEAD move back as well |
+|                     |                                                      |
 
 ## Git Config
 ```bash
