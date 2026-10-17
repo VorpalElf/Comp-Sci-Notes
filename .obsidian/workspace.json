@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,12 +321,12 @@
       "task-board:Open task board": false
     }
   },
-  "active": "2145db0fa14992bb",
+  "active": "eec53e2d0863275f",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10012/Software 3.md",
-    "Lecture Notes/Live/COMS10012/Software 4.md",
-    "Lecture Notes/Live/COMS10015/Week 4/Arch 4.2.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.2.md",
+    "Lecture Notes/Live/COMS10012/Software 4.md",
+    "Lecture Notes/Live/COMS10012/Software 3.md",
+    "Lecture Notes/Live/COMS10015/Week 4/Arch 4.2.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 4",
     "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md",
