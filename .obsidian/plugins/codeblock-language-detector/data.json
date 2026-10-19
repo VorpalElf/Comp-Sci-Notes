@@ -45,6 +45,38 @@
   "processingScope": "current-note",
   "historyData": [
     {
+      "fileName": "Week 5.1.md",
+      "filePath": "Week 5.1.md",
+      "codeBlock": {
+        "content": "Verilog\nmodule fa(output wire co, output wire s, input wire ci, input wire x, input wire y)",
+        "startLine": 18,
+        "endLine": 21,
+        "hasLanguage": false
+      },
+      "detectedLanguage": "v",
+      "confidence": 13,
+      "method": "vscode-ml",
+      "applied": true,
+      "id": "1792398242196-1lvmg73h1",
+      "timestamp": 1792398242196
+    },
+    {
+      "fileName": "Week 5.1.md",
+      "filePath": "Week 5.1.md",
+      "codeBlock": {
+        "content": "Verilog\nmodule fa(output wire co, output wire s, input wire ci, input wire x, input wire y)",
+        "startLine": 18,
+        "endLine": 20,
+        "hasLanguage": false
+      },
+      "detectedLanguage": "v",
+      "confidence": 13,
+      "method": "vscode-ml",
+      "applied": true,
+      "id": "1792398235151-nktgh9mps",
+      "timestamp": 1792398235151
+    },
+    {
       "fileName": "Functional 3.2.md",
       "filePath": "Functional 3.2.md",
       "codeBlock": {
