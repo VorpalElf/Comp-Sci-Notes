@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imperative 5.1.md",
+                "file": "Lecture Notes/Live/COMS10016/Imperative/Week 5/Imperative 5.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Imperative 5.1"
             }
+          },
+          {
+            "id": "49139a61efd751e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths 5.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maths 5.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,18 +265,20 @@
       "task-board:Open task board": false
     }
   },
-  "active": "94d7bd73549ba71f",
+  "active": "49139a61efd751e3",
   "lastOpenFiles": [
+    "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.1.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Week 5/Imperative 5.1.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.2.md",
+    "Maths 5.1.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Week 5",
     "Week 5.1.md",
-    "Imperative 5.1.md",
     "Attachments/Screenshot 2026-10-19 at 9.22.45 AM.png",
     "Lecture Notes/Live/COMS10014/Week 4/Maths 4.2.md",
     "Lecture Notes/Live/COMS10012/Software 4.md",
-    "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.2.md",
     "Lecture Notes/Live/COMS10012/Software 3.md",
     "Lecture Notes/Live/COMS10015/Week 4/Arch 4.2.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 4",
-    "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.1.md",
     "Lecture Notes/Live/COMS10015/Week 4/Arch 4.3.md",
@@ -287,7 +304,6 @@
     "Recipes/Chinese/枝豆粟米雞肉.md",
     "Recipes/Chinese/窩蛋牛肉菜飯.md",
     "Recipes/Chinese",
-    "Recipe.md",
     "Recipes",
     "Lecture Notes/Live/COMS10015/Week 4",
     "Attachments/Screenshot 2026-10-12 at 9.12.54 AM.png",
@@ -297,7 +313,6 @@
     "Attachments/Screenshot 2026-10-05 at 1.34.31 PM.png",
     "Lecture Notes/Live/COMS10014/Week 3",
     "Lecture Notes/Live/COMS10016/Imperative/Week 3",
-    "Lecture Notes/Live/COMS10015/Week 3",
     "Untitled.canvas"
   ]
 }

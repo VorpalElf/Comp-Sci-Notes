@@ -12,6 +12,9 @@ Lecture Name: Pointers
 - Addresses are always byte-based
 - Space allocated by different programs
 ## Pointers
+```C
+int *p = &k;
+```
 - Holds reference to the memory address
 - `*`: Pointer
 - `&`: Address operator (i.e. pointer point to...)

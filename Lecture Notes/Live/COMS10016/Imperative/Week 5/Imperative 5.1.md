@@ -50,6 +50,7 @@ free(s);
 ```
 ⚠️ <mark style="background: #FFB86CA6;">Update pointer</mark> during realloc
 
+## Realloc Efficiency
 
 
 
