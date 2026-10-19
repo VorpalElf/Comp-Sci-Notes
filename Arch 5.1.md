@@ -63,6 +63,13 @@ and t1()
 | Concatenate | ![[Screenshot 2026-10-19 at 1.14.47 PM.png\|383]] |
 | Replicate   | ![[Screenshot 2026-10-19 at 1.15.11 PM.png\|342]] |
 
+## RTL
+
+
+| Operators | Syntax                                                   |
+| --------- | -------------------------------------------------------- |
+| Reduction | `^x`                                                     |
+| Ternary   | `c ? y : x` $\Rightarrow$ $x$ if $c = 0$, $y$ if $c = 1$ |
 
 
 ---
