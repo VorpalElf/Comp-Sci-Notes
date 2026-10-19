@@ -41,7 +41,8 @@ and t1()
 	- A register equals to the result of the evaluation
 
 ## Wires & Values
-- Wires: Form of **net** used to <mark style="background: #FFB86CA6;">communicate values</mark>
+- Wire: Form of **net** used to <mark style="background: #FFB86CA6;">communicate values</mark>
+- `wire [7:0] x;`
 - Values
 	1. Support concept of 3-state logic
 		- 0 $\Rightarrow$ 0 (i.e. logical false)
@@ -55,6 +56,12 @@ and t1()
 	3. Can include 3-state values on a per-bit basis
 		- 1'bX $\Rightarrow$ a 1-bit binary literal, the bit is unknown
 		- 4'b10X $\Rightarrow$ a 4-bit decimal literal, that are 1, 0, unknown and high impedance
+
+| Name        | Diagram                                           |
+| ----------- | ------------------------------------------------- |
+| Subscript   | ![[Screenshot 2026-10-19 at 1.14.02 PM.png]]      |
+| Concatenate | ![[Screenshot 2026-10-19 at 1.14.47 PM.png\|383]] |
+| Replicate   | ![[Screenshot 2026-10-19 at 1.15.11 PM.png\|342]] |
 
 
 
