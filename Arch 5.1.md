@@ -65,12 +65,14 @@ and t1()
 
 ## RTL
 
-
 | Operators | Syntax                                                   |
 | --------- | -------------------------------------------------------- |
 | Reduction | `^x`                                                     |
 | Ternary   | `c ? y : x` $\Rightarrow$ $x$ if $c = 0$, $y$ if $c = 1$ |
 
+## High-level
+- Registers: Form of net to store values (i.e. <mark style="background: #FFB86CA6;">retain state</mark>)
+- 
 
 ---
 #Architecture
