@@ -72,14 +72,14 @@ Decoder: $m$-bit code word $\rightarrow$ $n$-bit input
 
 ### Summary
 
-| Name                 | Definition | Expression                                                                                                                               | Circuit                                           |
-| -------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Multiplexer          |            | $r = (\neg c \land x) \lor (c \land y)$                                                                                                  | ![[Screenshot 2026-10-05 at 1.27.44 PM.png\|126]] |
-| Demultiplexer        |            | $r_0 = \neg c \land x$<br>$r_1 = c \land x$                                                                                              | ![[Screenshot 2026-10-05 at 1.27.58 PM.png\|170]] |
-| Half Adder           |            | $co = x \land y$<br>$s = x \oplus y$                                                                                                     | ![[Screenshot 2026-10-05 at 1.34.31 PM.png\|160]] |
-| Full Adder           |            | $co = (x \land y) \lor (x \land ci) \lor (y \land ci)$<br>$= (x \land y) \lor ((x \oplus y) \land ci)$<br><br>$s = x \oplus y \oplus ci$ | ![[Screenshot 2026-10-05 at 1.34.55 PM.png\|117]] |
-| Equality Comparator  |            | r = $\neg (x \oplus y)$                                                                                                                  |                                                   |
-| Less-than Comparator |            | r = $\neg x \land y$                                                                                                                     |                                                   |
+| Name                 | Definition                                             | Expression                                                                                                                               | Circuit                                           |
+| -------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Multiplexer          | Select one of the input signals, output to one signal  | $r = (\neg c \land x) \lor (c \land y)$                                                                                                  | ![[Screenshot 2026-10-05 at 1.27.44 PM.png\|166]] |
+| Demultiplexer        | Select one input signals, output to one of the signals | $r_0 = \neg c \land x$<br>$r_1 = c \land x$                                                                                              | ![[Screenshot 2026-10-05 at 1.27.58 PM.png\|170]] |
+| Half Adder           | Component output sum & carry-out                       | $co = x \land y$<br>$s = x \oplus y$                                                                                                     | ![[Screenshot 2026-10-05 at 1.34.31 PM.png\|166]] |
+| Full Adder           | Half adder that supports carry-in                      | $co = (x \land y) \lor (x \land ci) \lor (y \land ci)$<br>$= (x \land y) \lor ((x \oplus y) \land ci)$<br><br>$s = x \oplus y \oplus ci$ | ![[Screenshot 2026-10-05 at 1.34.55 PM.png\|157]] |
+| Equality Comparator  | Check if both values are equal                         | r = $\neg (x \oplus y)$                                                                                                                  | ![[Screenshot 2026-10-20 at 2.46.51 PM.png\|182]] |
+| Less-than Comparator | if a value is smaller than the latter                  | r = $\neg x \land y$                                                                                                                     | ![[Screenshot 2026-10-20 at 2.47.27 PM.png\|188]] |
 
 
 
