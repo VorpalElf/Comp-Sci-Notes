@@ -26,7 +26,7 @@ It can
 under control of **enable signal**
 1. Level-triggered: Updated by a given level (i.e. **latch**)
 2. Edge-triggered: Update by a given edge (i.e. **flip-flop**)
-Described with excitation table
+Described with excitation table 
 
 
 ---
