@@ -20,7 +20,7 @@ Lecture Name: Functions
 - $f^{-1}(b) = a$ iff $f(a) = b$
 
 ## Preimage
-For a function $f: A \rightarrow B$the preimage 
+For a function $f: A \rightarrow B$, the preimage 
 $$f*: B \rightarrow \mathcal{P}(A)$$
 is defined by
 

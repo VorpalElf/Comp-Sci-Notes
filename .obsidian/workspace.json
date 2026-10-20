@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software 5.md",
+                "file": "Lecture Notes/Live/COMS10014/Week 5/Maths 5.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software 5"
+              "title": "Maths 5.1"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Maths 5.1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -295,8 +296,8 @@
   },
   "active": "5722f31c9aff49de",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10016/Imperative/Week 5/Imperative 5.2.md",
     "Software 5.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Week 5/Imperative 5.2.md",
     "Lecture Notes/Live/COMS10014/Week 5",
     "Lecture Notes/Live/COMS10015/Week 5",
     "Lecture Notes/Live/COMS10015/Week 5/Arch 5.1.md",
