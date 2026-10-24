@@ -94,16 +94,16 @@ $\neg \exists x \space Q(x) \equiv \forall x \space \neg Q(x)$
 | Case Distinction                  | $\lor E$                        | Prove goal in each case                   |
 
 ### Quantifiers Proof
-### 1. Witness Strategy
+#### 1. Witness Strategy
 - Applies for $\exists x$
 - Show example of any elements in set
-### 2. Arbitrary Element Strategy
+#### 2. Arbitrary Element Strategy
 - For $\forall x$
 1. Assume $x$ is arbitrary
 2. Proof it with any proof strategies
 3. Conclude, "since $x$ is arbitrary, *CLAIM$"
 
-### 3. Natural Induction
+#### 3. Natural Induction
 |           | Introduction                                                                                                                                                                                                      | Elimination                                                                                                  |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | $\forall$ | Let $x$ be an arbitrary element of $D$<br>Make no further assumptions of $x$ beyond $D$<br><br>🚨 $x$ must not be a free variable<br>which ensures x is truly arbitrary and not secretly fixed by some hypothesis | If we have $\forall x$, we can conclude $P(t)$ where $t \in D$                                               |
