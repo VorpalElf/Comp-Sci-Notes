@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software 7.md",
+                "file": "Lecture Notes/Live/COMS10014/Maths A Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software 7"
+              "title": "Maths A Summary"
             }
           }
         ],
@@ -281,8 +281,8 @@
   },
   "active": "92e4f694beb1c5a2",
   "lastOpenFiles": [
-    "Lecture Notes/Live/COMS10014/Week 7/Maths 7.1.md",
     "Software 7.md",
+    "Lecture Notes/Live/COMS10014/Week 7/Maths 7.1.md",
     "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md",
     "Lecture Notes/Live/COMS10014/Week 7",
     "Flow.md",
