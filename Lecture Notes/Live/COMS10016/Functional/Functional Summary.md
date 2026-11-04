@@ -11,7 +11,15 @@ add :: (Int, Int) -> Int
 add (x,y) = x + y
 ```
 ### Curried Functions
-
+```Haskell
+add' :: Int -> (Int -> Int)
+add' x y = x + y
+```
+- Returning functions as results (i.e. output of a function -> func it again)
+1. Takes x as an input
+2. Return add' x
+3. Takes y as input
+4. Return x + y
 
 ## Fold
 ```
