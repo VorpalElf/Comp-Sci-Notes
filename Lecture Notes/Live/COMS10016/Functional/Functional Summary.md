@@ -1,0 +1,5 @@
+
+## Folds
+```Haskell
+
+```
