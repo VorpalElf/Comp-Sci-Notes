@@ -6,7 +6,12 @@
 ### Function Types
 - Function: Mapping from arguments of one type to results of another type
 - `T1 -> T2` $\equiv$ Argument: T1, result: T2
-- E.g. add ::
+```Haskell
+add :: (Int, Int) -> Int
+add (x,y) = x + y
+```
+### Curried Functions
+
 
 ## Fold
 ```
