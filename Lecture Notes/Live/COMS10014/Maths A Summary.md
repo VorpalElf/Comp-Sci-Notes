@@ -4,7 +4,7 @@
 | Conjunction | AND           | Both propositions must be true                    | $p \land q$    |
 | Disjunction | OR            | Either proposition is true                        | $p \lor q$     |
 | Negation    | NOT           | Only one input, flip false to true, true to false | $\neg p$       |
-| Implication | IF... THEN... |                                                   | $p \implies q$ |
+| Implication | IF... THEN... | If $p$ is true, $q$ will be true                  | $p \implies q$ |
 ### Operator Precedence
 1. Parentheses
 2. Negation
