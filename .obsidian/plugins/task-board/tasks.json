@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-11-09T10:08:40",
+    "Modified_at": "2026-11-09T11:44:30",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -31,8 +31,7 @@
         "Lecture Notes/Live/COMS10015/Week 2/Arch 2.3.md": [],
         "Lecture Notes/Live/COMS10015/Week 4/Arch 4.2.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.1.md": [],
-        "Lecture Notes/Live/COMS10014/Week 7/Maths 7.2.md": [],
-        "Lecture Notes/Live/COMS10014/Maths A Summary.md": []
+        "Lecture Notes/Live/COMS10014/Week 7/Maths 7.2.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -91,7 +90,6 @@
         "Lecture Notes/Live/COMS10015/Week 2/Arch 2.3.md": [],
         "Lecture Notes/Live/COMS10015/Week 4/Arch 4.2.md": [],
         "Lecture Notes/Live/COMS10016/Imperative/Week 4/Imperative 4.1.md": [],
-        "Lecture Notes/Live/COMS10014/Week 7/Maths 7.2.md": [],
-        "Lecture Notes/Live/COMS10014/Maths A Summary.md": []
+        "Lecture Notes/Live/COMS10014/Week 7/Maths 7.2.md": []
     }
 }

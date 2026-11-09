@@ -17,7 +17,7 @@ Lecture Name: Functions
 3. Bijective (i.e. one-to-one correspondence)
 	- If it's both <mark style="background: #FFB86CA6;">injective & surjective</mark>
 ## Inverting Functions
-- $f^{-1}(b) = a$ iff $f(a) = b$
+- $f^{-1}(b) = a$, iff $f(a) = b$
 
 ## Preimage
 For a function $f: A \rightarrow B$, the preimage 

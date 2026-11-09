@@ -53,31 +53,33 @@ E.g. $p \land q \lor r$  means $(p \land q) \lor r$
 💡Assume $p$ is true for $\Rightarrow$, as consequent always true if antecedent is false
 
 ## Week 3: Predicates & Qualifiers
-### Predicates
+#### Predicates
 - Statements that contain variables
 - Can have any number of variables
 - E.g. The temperature is greater than 18˚C
 ### Quantifiers
 - A way to create a proposition from a propositional function
 - Domain: The set of values that a variable can take
-### Universal
+#### Universal
  - $\forall$, "for all" elements
  - $\forall x \space P(x)$ is true, if all elements are true
  - $\forall x \space P(x) \equiv P(x_1) \land P(x_2) \land \space ...$
-### Existential
+#### Existential
 - $\exists$, one or more elements in the domain
 - True if any values of $x$ is true
 - The true $x_n$ is called a witness
 - $\forall x \space P(x) \equiv P(x_1) \lor P(x_2) \lor \space ...$
-### Empty Domains
+#### Empty Domains
 - $\forall x \space P(x)$ is vacuously true, because no elements are false
 - $\exists x \space P(x)$ is trivially false, because no elements are true
+
 ### De Morgan's Laws for Quantifiers
 $\neg \forall x \space P(x) \equiv \exists x \space \neg P(x)$
 $\neg \exists x \space Q(x) \equiv \forall x \space \neg Q(x)$
 - Move negations, change operators
-## Proofs
-### Prove Strategies
+
+## Week 4: Proofs
+### Proof Strategies
 | Strategy         | Goal              | Approach                         |
 | ---------------- | ----------------- | -------------------------------- |
 | Direct           | $P \Rightarrow Q$ | Assume $P$, derive $Q$           |
@@ -108,6 +110,15 @@ $\neg \exists x \space Q(x) \equiv \forall x \space \neg Q(x)$
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | $\forall$ | Let $x$ be an arbitrary element of $D$<br>Make no further assumptions of $x$ beyond $D$<br><br>🚨 $x$ must not be a free variable<br>which ensures x is truly arbitrary and not secretly fixed by some hypothesis | If we have $\forall x$, we can conclude $P(t)$ where $t \in D$                                               |
 | $\exists$ | If we have $P(t)$ where $t \in D$, we may conclude & take $t$ as witness                                                                                                                                          | If we have $\exists x$ and from the assumption $P(x_0)$, where $x_0$ is fresh, we may prove and conclude $Q$ |
+
+## Week 5: Functions
+#### Properties of Functions
+1. Injective (i.e. one-to-one)
+	- If 2 outputs are the same, the inputs of those 2 should also be the same
+2. Surjective (i.e. onto)
+	- For every element $b$ in $B$, there is an element $a$ in $A$, such that $f(a) = b$
+3. Bijective (i.e. one-to-one correspondence)
+	- If it's both <mark style="background: #FFB86CA6;">injective & surjective</mark>
 
 
 ---
