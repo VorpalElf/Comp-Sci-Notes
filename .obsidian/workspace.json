@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "985a6491e5ff030d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch 8.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch 8.1"
-            }
-          },
-          {
             "id": "8e963b11e8aa3d80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software 8.md",
+                "file": "Lecture Notes/Live/COMS10014/Week 2/Maths 2.1 & 2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software 8"
+              "title": "Maths 2.1 & 2.2"
+            }
+          },
+          {
+            "id": "c37bdfc24286960a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Live/COMS10014/Maths A Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maths A Summary"
             }
           }
         ],
@@ -265,10 +265,13 @@
       "task-board:Open task board": false
     }
   },
-  "active": "8e963b11e8aa3d80",
+  "active": "c37bdfc24286960a",
   "lastOpenFiles": [
+    "Lecture Notes/Live/COMS10014/Week 2/Maths 2.1 & 2.2.md",
+    "Lecture Notes/Live/COMS10014/Week 1/Maths 1.2.md",
+    "Lecture Notes/Live/COMS10014/Week 1/Maths 1.1.md",
+    "Lecture Notes/Live/COMS10012/Software 8.md",
     "Arch 8.1.md",
-    "Software 8.md",
     "Attachments/Screenshot 2026-11-09 at 1.44.17 PM.png",
     "Attachments/Screenshot 2026-11-09 at 1.42.22 PM.png",
     "Attachments/Screenshot 2026-11-09 at 1.41.28 PM.png",
@@ -302,9 +305,6 @@
     "Lecture Notes/Live/COMS10015/Week 3/Arch 3.3.md",
     "Lecture Notes/Live/COMS10015/Week 4/Arch 4.2.md",
     "Lecture Notes/Live/COMS10015/Week 4/Arch 4.1.md",
-    "Lecture Notes/Live/COMS10014/Week 4/Maths 4.1.md",
-    "Lecture Notes/Live/COMS10014/Week 3/Maths 3.2.md",
-    "Lecture Notes/Live/COMS10014/Week 3/Maths 3.1.md",
     "Lecture Notes/Live/COMS10014/Week 5",
     "Lecture Notes/Live/COMS10015/Week 5",
     "Lecture Notes/Live/COMS10016/Imperative/Week 5",
