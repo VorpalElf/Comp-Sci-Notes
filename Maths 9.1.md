@@ -28,6 +28,28 @@ Discrete: $(\Omega, P)$ where $\Omega$ is finite
 ### Uniform Distribution
 - All outcomes are equally likely
 - E.g. $P(x_1) = P(x_2)$, hence $P( \{ x_1, x_2 \}) = p+p$
+### Properties
+- $E_1 \subseteq E_2 \Rightarrow P(E_1) \leq P(E_2)$
+- $P(\neg E) = 1 - P(E)$
+- $P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1 \cap E_2)$
+- $P(E_1 \cup E_2) \leq P(E_1) + P(E_2)$
+- $P(E_1 \cap E_2) \leq min \{  P(E_1), P(E_2)\}$
+### Probability Tables
+Given that $\Omega = \cup^n_{j=1} \space A_j$
+$$\begin{array}{c|cccc}
+ & A_1 & A_2 & \dots & A_n \\
+\hline
+ & P(A_1) & P(A_2) & \dots & P(A_n)
+\end{array}$$
+If $A$ is a partition, and $B$ is other partition
+$$\begin{array}{c|cccc}
+ & A_1 & A_2 & \dots & A_n \\
+\hline
+ B_1 & P(A_1 \cap B_1) & P(A_2 \cap B_1) & \dots & P(A_n \cap B_1) \\
+B_2 & P(A_1 \cap B_2) & P(A_2 \cap B_2) & \dots & P(A_n \cap B_2) \\
+ \vdots \\
+ B_m & P(A_1 \cap B_m) & P(A_2 \cap B_m) & \dots & P(A_n \cap B_m)
+\end{array}$$
 
 
 ---
