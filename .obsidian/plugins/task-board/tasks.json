@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-11-12T15:24:36",
+    "Modified_at": "2026-11-16T10:42:40",
     "Pending": {
         "Welcome.md": [],
         "Templates/Diary.md": [],
@@ -34,7 +34,8 @@
         "Lecture Notes/Live/COMS10014/Week 7/Maths 7.2.md": [],
         "Lecture Notes/Live/COMS10014/Maths A Summary.md": [],
         "Lecture Notes/Live/COMS10014/Week 5/Maths 5.1.md": [],
-        "Lecture Notes/Live/COMS10012/Software 8.md": []
+        "Lecture Notes/Live/COMS10012/Software 8.md": [],
+        "Maths 8.2.md": []
     },
     "Completed": {
         "Welcome.md": [],
@@ -96,6 +97,7 @@
         "Lecture Notes/Live/COMS10014/Week 7/Maths 7.2.md": [],
         "Lecture Notes/Live/COMS10014/Maths A Summary.md": [],
         "Lecture Notes/Live/COMS10014/Week 5/Maths 5.1.md": [],
-        "Lecture Notes/Live/COMS10012/Software 8.md": []
+        "Lecture Notes/Live/COMS10012/Software 8.md": [],
+        "Maths 8.2.md": []
     }
 }
