@@ -1,6 +1,6 @@
 {
     "VaultName": "UoB",
-    "Modified_at": "2026-11-18T10:33:43",
+    "Modified_at": "2026-11-18T10:37:28",
     "Pending": {
         "Templates/Lecture Notes.md": [],
         "Recipes/Chinese/窩蛋牛肉菜飯.md": [],
@@ -47,7 +47,8 @@
         "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md": [],
-        "Lecture Notes/Live/COMS10016/Functional/Week 4/Functional 4.1.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 4/Functional 4.1.md": [],
+        "Lecture Notes/Live/COMS10016/Functional/Functional 7.1.md": []
     },
     "Completed": {
         "Learning Diary/30-08-2026.md": [
@@ -123,6 +124,7 @@
         "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 1/Functional 1.md": [],
         "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md": [],
-        "Lecture Notes/Live/COMS10016/Functional/Week 4/Functional 4.1.md": []
+        "Lecture Notes/Live/COMS10016/Functional/Week 4/Functional 4.1.md": [],
+        "Lecture Notes/Live/COMS10016/Functional/Functional 7.1.md": []
     }
 }
