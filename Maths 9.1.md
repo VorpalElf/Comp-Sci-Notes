@@ -6,7 +6,7 @@ Course Name:
   - COMS10014
 Lecture Name: Probability
 ---
-### Introduction
+ ### Introduction
 - Mathematically to model the uncertain world
 ### Sample Space
 - Represented in $\Omega$
