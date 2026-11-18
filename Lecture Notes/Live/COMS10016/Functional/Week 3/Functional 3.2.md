@@ -11,7 +11,8 @@ Lecture Name: ADTs
 ```Haskell
 data Player = White | Black
 ```
-
+`data`: New type
+` x | y`: Possible options
 ## Sums
 ```Haskell
 data Player = White | Black
@@ -25,7 +26,6 @@ eqPlayer White White = True
 eqPlayer Black Black = True
 eqPlayer _ _ = False
 ```
-
 ## Products
 ```haskell
 data Piece' = Piece' Player PieceType
