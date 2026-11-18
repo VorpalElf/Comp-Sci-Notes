@@ -4,7 +4,7 @@ Lecturer:
   - Samantha Frohlich
 Course Name:
   - COMS10016
-Lecture Name:
+Lecture Name: Pattern Matching
 ---
 ## Environment & Scope
 ```Haskell
@@ -67,6 +67,12 @@ whereEg x = result
 		xSquared = x * x
 ```
 
+### Recursion
+1. Define the type
+2. Enumerate cases
+3. Define simple cases
+4. Define other cases
+5. Generalise & Simplify
 
 
 

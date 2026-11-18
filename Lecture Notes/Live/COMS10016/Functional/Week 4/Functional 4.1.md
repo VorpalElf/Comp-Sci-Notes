@@ -15,7 +15,8 @@ Right: Holds correct value
 ```Haskell
 data Maybe a = Just a | Nothing
 ```
-
+Just: Stringable
+Nothing: Fallback result
 
 
 ---
