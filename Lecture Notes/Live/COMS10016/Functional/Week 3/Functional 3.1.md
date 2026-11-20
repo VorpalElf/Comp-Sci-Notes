@@ -42,7 +42,7 @@ x : xs' -> x
 ```Haskell
 x <- [1,2,3]
 ```
-
+- Where x equals to `[1,2,3]`
 
 
 

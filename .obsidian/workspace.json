@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Live/COMS10016/Imperative/Week 9/Imperative 9.2.md",
+                "file": "Lecture Notes/Live/COMS10016/Functional/Functional Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperative 9.2"
+              "title": "Functional Summary"
+            }
+          },
+          {
+            "id": "f42daf084f0cdc6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functional 2.1"
             }
           }
         ],
@@ -264,11 +278,16 @@
       "task-board:Open task board": false
     }
   },
-  "active": "2145db0fa14992bb",
+  "active": "5932c81fb37d2ad4",
   "lastOpenFiles": [
+    "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.1.md",
+    "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md",
+    "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md",
+    "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.2.md",
+    "Lecture Notes/Live/COMS10016/Functional/Functional Summary.md",
+    "Lecture Notes/Live/COMS10016/Imperative/Week 9/Imperative 9.2.md",
     "Lecture Notes/Live/COMS10016/Imperative/Week 9",
     "Lecture Notes/Live/COMS10016/Imperative/Week 9/Imperative 9.1.md",
-    "Lecture Notes/Live/COMS10016/Imperative/Week 9/Imperative 9.2.md",
     "Attachments/Screenshot 2026-11-20 at 10.36.53 AM.png",
     "Lecture Notes/Live/COMS10014/Week 9/Maths 9.2.md",
     "Lecture Notes/Live/COMS10015/Arch TB1 Summary.md",
@@ -298,20 +317,15 @@
     "Attachments/Screenshot 2026-11-09 at 1.32.06 PM.png",
     "Lecture Notes/Live/COMS10014/Week 5/Maths 5.1.md",
     "Imperative Week 8.1.md",
-    "Lecture Notes/Live/COMS10015/Week 7/Arch 7.2.md",
     "Attachments/Screenshot 2026-11-05 at 11.47.44 AM.png",
     "Attachments/Screenshot 2026-11-05 at 11.47.20 AM.png",
     "Attachments/Screenshot 2026-11-05 at 11.47.02 AM.png",
-    "Lecture Notes/Live/COMS10016/Functional/Functional Summary.md",
     "Lecture Notes/Live/COMS10015/Week 7",
-    "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.1.md",
-    "Lecture Notes/Live/COMS10016/Functional/Week 2/Functional 2.2.md",
     "Lecture Notes/Live/COMS10014/Week 7",
     "Lecture Notes/Live/COMS10014/Week 5",
     "Lecture Notes/Live/COMS10015/Week 5",
     "Lecture Notes/Live/COMS10016/Imperative/Week 5",
     "Lecture Notes/Live/COMS10016/Functional/Week 4",
-    "Lecture Notes/Live/COMS10014/Week 4",
     "Untitled.canvas"
   ]
 }

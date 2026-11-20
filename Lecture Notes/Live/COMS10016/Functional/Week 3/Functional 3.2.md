@@ -11,7 +11,7 @@ Lecture Name: ADTs
 ```Haskell
 data Player = White | Black
 ```
-`data`: New type
+`data`: New type (whatever you want)
 ` x | y`: Possible options
 ## Sums
 ```Haskell
@@ -46,7 +46,6 @@ promoteToQueen (MkPiece c p) = MkPiece c p
 ```Haskell
 data PieceR = MkPieceR { player :: Player, pieceType :: PieceType }
 ```
-
 
 
 ---
