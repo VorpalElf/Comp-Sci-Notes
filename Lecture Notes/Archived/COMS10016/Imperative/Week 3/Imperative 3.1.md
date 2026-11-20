@@ -121,7 +121,6 @@ strcat(str3, str2);
 printf("%s", str3);  // prints "Hi" and "Lo"
 ```
 
-## Diagrams
 
 ---
-#Tags
+#Imperative

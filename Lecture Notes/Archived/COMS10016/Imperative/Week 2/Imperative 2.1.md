@@ -10,7 +10,7 @@ Lecture Name: Literals, Enums & Constraints
 1. Programs must <mark style="background: #FFF3A3A6;">work correctly</mark>
 2. Programs must be <mark style="background: #BBFABBA6;">readable</mark>
 3. Programs must be <mark style="background: #FF5582A6;">compact</mark>
-4. Programs must be efficient
+4. Programs must be <mark style="background: #ADCCFFA6;">efficient</mark>
 
 ## Constants & Enums
 ```C
