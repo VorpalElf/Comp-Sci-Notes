@@ -12,6 +12,8 @@ Lecture Name: Random Variables
 $$P(X \in E)$$
 - `X`: Random variable
 - `E`: Event or a set of results
+## Probability Mass Function (PMF)
+$$P_X (x)= P(X=x) = P(X \in {x}),\space x \in S$$
 
 
 
