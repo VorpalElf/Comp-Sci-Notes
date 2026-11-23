@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "8ddbe9eec458ced7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch 10.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch 10.1"
+            }
+          },
+          {
             "id": "f42daf084f0cdc6d",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -291,10 +305,11 @@
       "task-board:Open task board": false
     }
   },
-  "active": "c8ccc329311f4072",
+  "active": "8ddbe9eec458ced7",
   "lastOpenFiles": [
-    "Software 9.md",
     "Maths 10.1.md",
+    "Arch 10.1.md",
+    "Software 9.md",
     "Lecture Notes/Live/COMS10016/Functional/Functional Summary.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.1.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.2.md",
@@ -329,7 +344,6 @@
     "Attachments/Screenshot 2026-11-09 at 1.41.28 PM.png",
     "Attachments/Screenshot 2026-11-09 at 1.41.13 PM.png",
     "Attachments/Screenshot 2026-11-09 at 1.32.06 PM.png",
-    "Lecture Notes/Live/COMS10014/Week 5/Maths 5.1.md",
     "Attachments/Screenshot 2026-11-05 at 11.47.44 AM.png",
     "Attachments/Screenshot 2026-11-05 at 11.47.20 AM.png",
     "Attachments/Screenshot 2026-11-05 at 11.47.02 AM.png",
