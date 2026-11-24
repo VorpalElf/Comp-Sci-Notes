@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch 10.1.md",
+                "file": "Lecture Notes/Live/COMS10014/Maths A Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch 10.1"
+              "title": "Maths A Summary"
             }
           },
           {
@@ -307,8 +307,8 @@
   },
   "active": "8ddbe9eec458ced7",
   "lastOpenFiles": [
-    "Maths 10.1.md",
     "Arch 10.1.md",
+    "Maths 10.1.md",
     "Software 9.md",
     "Lecture Notes/Live/COMS10016/Functional/Functional Summary.md",
     "Lecture Notes/Live/COMS10016/Functional/Week 3/Functional 3.1.md",
